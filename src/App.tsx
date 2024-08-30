@@ -27,7 +27,7 @@ function App() {
 
   return (
     <main className="flex flex-col items-center w-full mt-16 mb-10">
-      <div className="fixed top-3 right-5">
+      <div className="absolute top-3 right-5">
         <a
           className="text-sm text-blue-500 hover:underline"
           href="https://github.com/rushabhhere/vocab-fuzzy-search"
