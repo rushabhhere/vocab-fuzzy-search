@@ -15,6 +15,7 @@ function App() {
       'definitions.sentence',
       'defnitions.synonyms',
     ],
+    ignoreLocation: true,
   });
 
   const results = fuse.search(search, { limit });
