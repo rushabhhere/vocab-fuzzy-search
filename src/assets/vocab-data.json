@@ -7987,7 +7987,7 @@
   },
   {
     "key": 632,
-    "word": "economy",
+    "word": "cumbersome",
     "definitions": [
       {
         "part_of_speech": "adjective",
@@ -7999,7 +7999,7 @@
   },
   {
     "key": 633,
-    "word": "elementary",
+    "word": "economy",
     "definitions": [
       {
         "part_of_speech": "noun",
@@ -8011,7 +8011,7 @@
   },
   {
     "key": 634,
-    "word": "embellish",
+    "word": "elementary",
     "definitions": [
       {
         "part_of_speech": "adjective",
@@ -8023,7 +8023,7 @@
   },
   {
     "key": 635,
-    "word": "euphoric",
+    "word": "embellish",
     "definitions": [
       {
         "part_of_speech": "verb",
@@ -8034,14 +8034,14 @@
       {
         "part_of_speech": "verb",
         "definition": "making something sound or look better than it is in reality",
-        "sentence": "The athlete felt <u>euphoric</u> after winning the gold medal.",
+        "sentence": "John has a terrible habit of <u>embellishing</u> his stories with improbable details.",
         "synonyms": ["exaggerate", "embroider", "color"]
       }
     ]
   },
   {
     "key": 636,
-    "word": "exonerate",
+    "word": "euphoric",
     "definitions": [
       {
         "part_of_speech": "verb",
@@ -8053,7 +8053,7 @@
   },
   {
     "key": 637,
-    "word": "extrapolate",
+    "word": "exonerate",
     "definitions": [
       {
         "part_of_speech": "verb",
@@ -8065,7 +8065,7 @@
   },
   {
     "key": 638,
-    "word": "falter",
+    "word": "extrapolate",
     "definitions": [
       {
         "part_of_speech": "verb",
@@ -8077,7 +8077,7 @@
   },
   {
     "key": 639,
-    "word": "fervent",
+    "word": "falter",
     "definitions": [
       {
         "part_of_speech": "verb",
@@ -8089,7 +8089,7 @@
   },
   {
     "key": 640,
-    "word": "foment",
+    "word": "fervent",
     "definitions": [
       {
         "part_of_speech": "adjective",
@@ -8101,7 +8101,7 @@
   },
   {
     "key": 641,
-    "word": "gaffe",
+    "word": "foment",
     "definitions": [
       {
         "part_of_speech": "verb",
@@ -8113,7 +8113,7 @@
   },
   {
     "key": 642,
-    "word": "heterodox",
+    "word": "gaffe",
     "definitions": [
       {
         "part_of_speech": "noun",
@@ -8125,7 +8125,7 @@
   },
   {
     "key": 643,
-    "word": "histrionic",
+    "word": "heterodox",
     "definitions": [
       {
         "part_of_speech": "adjective",
@@ -8137,7 +8137,7 @@
   },
   {
     "key": 644,
-    "word": "implicit",
+    "word": "histrionic",
     "definitions": [
       {
         "part_of_speech": "adjective",
@@ -8149,7 +8149,7 @@
   },
   {
     "key": 645,
-    "word": "inviolate",
+    "word": "implicit",
     "definitions": [
       {
         "part_of_speech": "adjective",
@@ -8161,7 +8161,7 @@
   },
   {
     "key": 646,
-    "word": "liability",
+    "word": "inviolate",
     "definitions": [
       {
         "part_of_speech": "adjective",
@@ -8173,7 +8173,7 @@
   },
   {
     "key": 647,
-    "word": "obstinate",
+    "word": "liability",
     "definitions": [
       {
         "part_of_speech": "noun",
@@ -8185,7 +8185,7 @@
   },
   {
     "key": 648,
-    "word": "painstaking",
+    "word": "obstinate",
     "definitions": [
       {
         "part_of_speech": "adjective",
@@ -8197,7 +8197,7 @@
   },
   {
     "key": 649,
-    "word": "phlegmatic",
+    "word": "painstaking",
     "definitions": [
       {
         "part_of_speech": "adjective",
@@ -8209,7 +8209,7 @@
   },
   {
     "key": 650,
-    "word": "prodigious",
+    "word": "phlegmatic",
     "definitions": [
       {
         "part_of_speech": "adjective",
@@ -8221,7 +8221,7 @@
   },
   {
     "key": 651,
-    "word": "propensity",
+    "word": "prodiguous",
     "definitions": [
       {
         "part_of_speech": "adjective",
@@ -8233,7 +8233,7 @@
   },
   {
     "key": 652,
-    "word": "qualm",
+    "word": "propensity",
     "definitions": [
       {
         "part_of_speech": "noun",
@@ -8245,7 +8245,7 @@
   },
   {
     "key": 653,
-    "word": "renege",
+    "word": "qualm",
     "definitions": [
       {
         "part_of_speech": "noun",
@@ -8257,7 +8257,7 @@
   },
   {
     "key": 654,
-    "word": "stint",
+    "word": "renege",
     "definitions": [
       {
         "part_of_speech": "verb",
