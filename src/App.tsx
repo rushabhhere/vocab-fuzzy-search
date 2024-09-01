@@ -1,7 +1,8 @@
-import { useState } from 'react';
+import { useState, useRef } from 'react';
 import vocabData from './assets/vocab-data.json';
 import Card from './components/Card';
 import Fuse from 'fuse.js';
+import NoRelevantResults from './components/NoRelevantResults';
 
 function App() {
   const [search, setSearch] = useState('');
@@ -13,17 +14,37 @@ function App() {
       'word',
       'definitions.definition',
       'definitions.sentence',
-      'defnitions.synonyms',
+      'definitions.synonyms',
     ],
     ignoreLocation: true,
+    threshold: 0.2,
   });
 
-  const results = fuse.search(search, { limit });
+  const searchInputRef = useRef<HTMLInputElement>(null);
+
+  // click on '/' to focus on search input
+  document.addEventListener('keydown', e => {
+    if (e.key === '/') {
+      e.preventDefault();
+      searchInputRef.current?.focus();
+    }
+  });
+
+  const results = fuse.search(search.trim(), { limit });
 
   const handleLimitChange = (e: React.ChangeEvent<HTMLInputElement>) => {
-    setLimit(parseInt(e.target.value));
+    const value = parseInt(e.target.value);
 
-    localStorage.setItem('limit', e.target.value);
+    if (value < 1) {
+      setLimit(1);
+      localStorage.setItem('limit', '1');
+    } else if (value > 20) {
+      setLimit(20);
+      localStorage.setItem('limit', '20');
+    } else {
+      setLimit(value);
+      localStorage.setItem('limit', e.target.value);
+    }
   };
 
   return (
@@ -46,6 +67,7 @@ function App() {
           placeholder="Search the vocab..."
           autoFocus
           value={search}
+          ref={searchInputRef}
           onChange={e => setSearch(e.target.value)}
           className="inline-block w-full px-4 py-2 mb-2 border border-gray-300 rounded-md"
         />
@@ -58,15 +80,19 @@ function App() {
             type="number"
             id="limit"
             min="1"
-            max="10"
+            max="20"
             value={limit}
             onChange={handleLimitChange}
           />
         </div>
         <section className="max-w-full space-y-5">
-          {results.map(result => (
-            <Card key={result.item.key} data={result.item} />
-          ))}
+          {search.trim().length !== 0 && results.length === 0 ? (
+            <NoRelevantResults />
+          ) : (
+            results.map(result => (
+              <Card key={result.item.key} data={result.item} />
+            ))
+          )}
         </section>
       </div>
     </main>
