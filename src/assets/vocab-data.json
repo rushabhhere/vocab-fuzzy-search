@@ -11610,7 +11610,7 @@
       {
         "part_of_speech": "adjective",
         "definition": "dirty or squalid",
-        "sentence": "The room's sordid conditions reflected years of neglect and decay.",
+        "sentence": "The room's <u>sordid</u> conditions reflected years of neglect and decay.",
         "synonyms": ["grimy", "muddy", "shabby"]
       }
     ]
