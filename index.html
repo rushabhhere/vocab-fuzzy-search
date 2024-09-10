@@ -1,26 +1,61 @@
 <!DOCTYPE html>
 <html lang="en">
-  <head>
-    <meta charset="UTF-8" />
-    <link rel="icon" type="image/png" href="/favicon.png" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Vocab Fuzzy Search</title>
-    <meta
-      name="description"
-      content="Quickly find just the word you need by searching through the GregMat GRE Vocab Mountain words by their definitions, example sentences and synonyms."
-    />
-    <meta
-      name="keywords"
-      content="GRE, GregMat, Vocab, Vocabulary, Fuzzy Search, Search, Definitions, Synonyms, Example Sentences"
-    />
-  </head>
-  <body>
-    <div id="root"></div>
-    <script type="module" src="/src/main.tsx"></script>
-    <script
-      defer
-      src="https://cloud.umami.is/script.js"
-      data-website-id="3afb037e-022c-4321-b82f-5530427c2967"
-    ></script>
-  </body>
+<head>
+  <meta charset="UTF-8" />
+  <link rel="icon" type="image/png" href="/favicon.png" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Vocab Fuzzy Search</title>
+  <meta name="description" content="Quickly find just the word you need by searching through the GregMat GRE Vocab Mountain words by their definitions, example sentences and synonyms." />
+  <meta name="keywords" content="GRE, GregMat, Vocab, Vocabulary, Fuzzy Search, Search, Definitions, Synonyms, Example Sentences" />
+  <style>
+    body {
+      background-color: white;
+      color: black;
+      transition: background-color 0.3s, color 0.3s;
+    }
+    body.dark-mode {
+      background-color: #121212;
+      color: #e0e0e0;
+    }
+    /* Style for the dark mode toggle button */
+    .dark-mode-toggle {
+      position: fixed;
+      top: 10px;
+      right: 10px;
+      background-color: #008CBA;
+      color: white;
+      padding: 10px;
+      border: none;
+      border-radius: 5px;
+      cursor: pointer;
+    }
+    .dark-mode-toggle:hover {
+      background-color: #005f73;
+    }
+  </style>
+</head>
+<body>
+  <div id="root"></div>
+  <button class="dark-mode-toggle" id="darkModeToggle">Toggle Dark Mode</button>
+  
+  <script type="module" src="/src/main.tsx"></script>
+  <script defer src="https://cloud.umami.is/script.js" data-website-id="3afb037e-022c-4321-b82f-5530427c2967"></script>
+  <script>
+    const darkModeToggle = document.getElementById('darkModeToggle');
+    const body = document.body;
+    const isDarkModeEnabled = localStorage.getItem('dark-mode') === 'enabled';
+    if (isDarkModeEnabled) {
+      body.classList.add('dark-mode');
+    }
+
+    darkModeToggle.addEventListener('click', () => {
+      body.classList.toggle('dark-mode');
+      if (body.classList.contains('dark-mode')) {
+        localStorage.setItem('dark-mode', 'enabled');
+      } else {
+        localStorage.removeItem('dark-mode');
+      }
+    });
+  </script>
+</body>
 </html>
