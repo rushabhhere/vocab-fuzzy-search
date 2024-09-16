@@ -6,7 +6,9 @@ import NoRelevantResults from './components/NoRelevantResults';
 
 function App() {
   const [search, setSearch] = useState('');
-  const [showGroupNumbers, setShowGroupNumbers] = useState(true);
+  const [showGroupNumbers, setShowGroupNumbers] = useState(
+    localStorage.getItem('groups') === 'true' || false
+  );
   const [limit, setLimit] = useState(
     parseInt(localStorage.getItem('limit') || '3')
   );
@@ -47,6 +49,13 @@ function App() {
       setLimit(value);
       localStorage.setItem('limit', e.target.value);
     }
+  };
+
+  const handleToggleGroupNumbers = () => {
+    setShowGroupNumbers(p => {
+      localStorage.setItem('groups', (!showGroupNumbers).toString());
+      return !p;
+    });
   };
 
   return (
@@ -98,7 +107,7 @@ function App() {
               type="checkbox"
               id="group-numbers"
               checked={showGroupNumbers}
-              onChange={() => setShowGroupNumbers(p => !p)}
+              onChange={handleToggleGroupNumbers}
             />
           </div>
         </div>
