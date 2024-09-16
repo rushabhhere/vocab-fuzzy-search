@@ -6,9 +6,11 @@ import NoRelevantResults from './components/NoRelevantResults';
 
 function App() {
   const [search, setSearch] = useState('');
+  const [showGroupNumbers, setShowGroupNumbers] = useState(true);
   const [limit, setLimit] = useState(
     parseInt(localStorage.getItem('limit') || '3')
   );
+
   const fuse = new Fuse(vocabData, {
     keys: [
       'word',
@@ -71,26 +73,46 @@ function App() {
           onChange={e => setSearch(e.target.value)}
           className="inline-block w-full px-4 py-2 mb-2 border border-gray-300 rounded-md"
         />
-        <div className="mb-8">
-          <label htmlFor="limit" className="mr-3">
-            Max Results:
-          </label>
-          <input
-            className="inline-block p-2 border border-gray-300 rounded-md"
-            type="number"
-            id="limit"
-            min="1"
-            max="20"
-            value={limit}
-            onChange={handleLimitChange}
-          />
+
+        {/* controls */}
+        <div className="flex flex-col items-start gap-5 mb-8 md:flex-row md:items-center">
+          <div>
+            <label htmlFor="limit" className="mr-3">
+              Max Results:
+            </label>
+            <input
+              className="inline-block p-2 border border-gray-300 rounded-md"
+              type="number"
+              id="limit"
+              min="1"
+              max="20"
+              value={limit}
+              onChange={handleLimitChange}
+            />
+          </div>
+          <div>
+            <label htmlFor="group-numbers" className="mr-3">
+              Group Numbers:
+            </label>
+            <input
+              type="checkbox"
+              id="group-numbers"
+              checked={showGroupNumbers}
+              onChange={() => setShowGroupNumbers(p => !p)}
+            />
+          </div>
         </div>
+
         <section className="max-w-full space-y-5">
           {search.trim().length !== 0 && results.length === 0 ? (
             <NoRelevantResults />
           ) : (
             results.map(result => (
-              <Card key={result.item.key} data={result.item} />
+              <Card
+                key={result.item.key}
+                data={result.item}
+                showGroupNumbers={showGroupNumbers}
+              />
             ))
           )}
         </section>

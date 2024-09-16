@@ -1,6 +1,7 @@
 [
   {
     "key": 0,
+    "group": 1,
     "word": "abound",
     "definitions": [
       {
@@ -13,6 +14,7 @@
   },
   {
     "key": 1,
+    "group": 1,
     "word": "amorphous",
     "definitions": [
       {
@@ -25,6 +27,7 @@
   },
   {
     "key": 2,
+    "group": 1,
     "word": "austere",
     "definitions": [
       {
@@ -43,6 +46,7 @@
   },
   {
     "key": 3,
+    "group": 1,
     "word": "belie",
     "definitions": [
       {
@@ -55,6 +59,7 @@
   },
   {
     "key": 4,
+    "group": 1,
     "word": "capricious",
     "definitions": [
       {
@@ -67,6 +72,7 @@
   },
   {
     "key": 5,
+    "group": 1,
     "word": "cerebral",
     "definitions": [
       {
@@ -85,6 +91,7 @@
   },
   {
     "key": 6,
+    "group": 1,
     "word": "congenial",
     "definitions": [
       {
@@ -103,6 +110,7 @@
   },
   {
     "key": 7,
+    "group": 1,
     "word": "conspicuous",
     "definitions": [
       {
@@ -115,6 +123,7 @@
   },
   {
     "key": 8,
+    "group": 1,
     "word": "cursory",
     "definitions": [
       {
@@ -127,6 +136,7 @@
   },
   {
     "key": 9,
+    "group": 1,
     "word": "daunting",
     "definitions": [
       {
@@ -139,6 +149,7 @@
   },
   {
     "key": 10,
+    "group": 1,
     "word": "deify",
     "definitions": [
       {
@@ -151,6 +162,7 @@
   },
   {
     "key": 11,
+    "group": 1,
     "word": "didactic",
     "definitions": [
       {
@@ -163,6 +175,7 @@
   },
   {
     "key": 12,
+    "group": 1,
     "word": "disseminate",
     "definitions": [
       {
@@ -175,6 +188,7 @@
   },
   {
     "key": 13,
+    "group": 1,
     "word": "feasible",
     "definitions": [
       {
@@ -187,6 +201,7 @@
   },
   {
     "key": 14,
+    "group": 1,
     "word": "flout",
     "definitions": [
       {
@@ -199,6 +214,7 @@
   },
   {
     "key": 15,
+    "group": 1,
     "word": "homogeneous",
     "definitions": [
       {
@@ -211,6 +227,7 @@
   },
   {
     "key": 16,
+    "group": 1,
     "word": "humdrum",
     "definitions": [
       {
@@ -223,6 +240,7 @@
   },
   {
     "key": 17,
+    "group": 1,
     "word": "insipid",
     "definitions": [
       {
@@ -235,6 +253,7 @@
   },
   {
     "key": 18,
+    "group": 1,
     "word": "loquacious",
     "definitions": [
       {
@@ -247,6 +266,7 @@
   },
   {
     "key": 19,
+    "group": 1,
     "word": "misanthropic",
     "definitions": [
       {
@@ -259,6 +279,7 @@
   },
   {
     "key": 20,
+    "group": 1,
     "word": "misnomer",
     "definitions": [
       {
@@ -271,6 +292,7 @@
   },
   {
     "key": 21,
+    "group": 1,
     "word": "negligent",
     "definitions": [
       {
@@ -283,6 +305,7 @@
   },
   {
     "key": 22,
+    "group": 1,
     "word": "obsequious",
     "definitions": [
       {
@@ -295,6 +318,7 @@
   },
   {
     "key": 23,
+    "group": 1,
     "word": "placate",
     "definitions": [
       {
@@ -307,6 +331,7 @@
   },
   {
     "key": 24,
+    "group": 1,
     "word": "proclivity",
     "definitions": [
       {
@@ -319,6 +344,7 @@
   },
   {
     "key": 25,
+    "group": 1,
     "word": "puerile",
     "definitions": [
       {
@@ -331,6 +357,7 @@
   },
   {
     "key": 26,
+    "group": 1,
     "word": "quixotic",
     "definitions": [
       {
@@ -343,6 +370,7 @@
   },
   {
     "key": 27,
+    "group": 1,
     "word": "spendthrift",
     "definitions": [
       {
@@ -355,6 +383,7 @@
   },
   {
     "key": 28,
+    "group": 1,
     "word": "taciturn",
     "definitions": [
       {
@@ -367,6 +396,7 @@
   },
   {
     "key": 29,
+    "group": 1,
     "word": "wary",
     "definitions": [
       {
@@ -379,6 +409,7 @@
   },
   {
     "key": 30,
+    "group": 2,
     "word": "adulterate",
     "definitions": [
       {
@@ -391,6 +422,7 @@
   },
   {
     "key": 31,
+    "group": 2,
     "word": "advocate",
     "definitions": [
       {
@@ -409,6 +441,7 @@
   },
   {
     "key": 32,
+    "group": 2,
     "word": "aggrandize",
     "definitions": [
       {
@@ -421,6 +454,7 @@
   },
   {
     "key": 33,
+    "group": 2,
     "word": "alacrity",
     "definitions": [
       {
@@ -433,6 +467,7 @@
   },
   {
     "key": 34,
+    "group": 2,
     "word": "ambivalent",
     "definitions": [
       {
@@ -445,6 +480,7 @@
   },
   {
     "key": 35,
+    "group": 2,
     "word": "ameliorate",
     "definitions": [
       {
@@ -457,6 +493,7 @@
   },
   {
     "key": 36,
+    "group": 2,
     "word": "amenable",
     "definitions": [
       {
@@ -475,6 +512,7 @@
   },
   {
     "key": 37,
+    "group": 2,
     "word": "anachronistic",
     "definitions": [
       {
@@ -487,6 +525,7 @@
   },
   {
     "key": 38,
+    "group": 2,
     "word": "audacious",
     "definitions": [
       {
@@ -505,6 +544,7 @@
   },
   {
     "key": 39,
+    "group": 2,
     "word": "avaricious",
     "definitions": [
       {
@@ -517,6 +557,7 @@
   },
   {
     "key": 40,
+    "group": 2,
     "word": "banal",
     "definitions": [
       {
@@ -529,6 +570,7 @@
   },
   {
     "key": 41,
+    "group": 2,
     "word": "benign",
     "definitions": [
       {
@@ -547,6 +589,7 @@
   },
   {
     "key": 42,
+    "group": 2,
     "word": "brazen",
     "definitions": [
       {
@@ -559,6 +602,7 @@
   },
   {
     "key": 43,
+    "group": 2,
     "word": "calumny",
     "definitions": [
       {
@@ -571,6 +615,7 @@
   },
   {
     "key": 44,
+    "group": 2,
     "word": "candid",
     "definitions": [
       {
@@ -583,6 +628,7 @@
   },
   {
     "key": 45,
+    "group": 2,
     "word": "castigate",
     "definitions": [
       {
@@ -595,6 +641,7 @@
   },
   {
     "key": 46,
+    "group": 2,
     "word": "caustic",
     "definitions": [
       {
@@ -613,6 +660,7 @@
   },
   {
     "key": 47,
+    "group": 2,
     "word": "construe",
     "definitions": [
       {
@@ -625,6 +673,7 @@
   },
   {
     "key": 48,
+    "group": 2,
     "word": "contrite",
     "definitions": [
       {
@@ -637,6 +686,7 @@
   },
   {
     "key": 49,
+    "group": 2,
     "word": "convoluted",
     "definitions": [
       {
@@ -649,6 +699,7 @@
   },
   {
     "key": 50,
+    "group": 2,
     "word": "covet",
     "definitions": [
       {
@@ -661,6 +712,7 @@
   },
   {
     "key": 51,
+    "group": 2,
     "word": "craven",
     "definitions": [
       {
@@ -673,6 +725,7 @@
   },
   {
     "key": 52,
+    "group": 2,
     "word": "decorum",
     "definitions": [
       {
@@ -685,6 +738,7 @@
   },
   {
     "key": 53,
+    "group": 2,
     "word": "deft",
     "definitions": [
       {
@@ -697,6 +751,7 @@
   },
   {
     "key": 54,
+    "group": 2,
     "word": "demur",
     "definitions": [
       {
@@ -715,6 +770,7 @@
   },
   {
     "key": 55,
+    "group": 2,
     "word": "derivative",
     "definitions": [
       {
@@ -727,6 +783,7 @@
   },
   {
     "key": 56,
+    "group": 2,
     "word": "desiccate",
     "definitions": [
       {
@@ -739,6 +796,7 @@
   },
   {
     "key": 57,
+    "group": 2,
     "word": "diatribe",
     "definitions": [
       {
@@ -751,6 +809,7 @@
   },
   {
     "key": 58,
+    "group": 2,
     "word": "incredulous",
     "definitions": [
       {
@@ -763,6 +822,7 @@
   },
   {
     "key": 59,
+    "group": 2,
     "word": "ingenuous",
     "definitions": [
       {
@@ -775,6 +835,7 @@
   },
   {
     "key": 60,
+    "group": 3,
     "word": "abate",
     "definitions": [
       {
@@ -787,6 +848,7 @@
   },
   {
     "key": 61,
+    "group": 3,
     "word": "abjure",
     "definitions": [
       {
@@ -799,6 +861,7 @@
   },
   {
     "key": 62,
+    "group": 3,
     "word": "anomalous",
     "definitions": [
       {
@@ -811,6 +874,7 @@
   },
   {
     "key": 63,
+    "group": 3,
     "word": "antipathy",
     "definitions": [
       {
@@ -823,6 +887,7 @@
   },
   {
     "key": 64,
+    "group": 3,
     "word": "arcane",
     "definitions": [
       {
@@ -835,6 +900,7 @@
   },
   {
     "key": 65,
+    "group": 3,
     "word": "arduous",
     "definitions": [
       {
@@ -847,6 +913,7 @@
   },
   {
     "key": 66,
+    "group": 3,
     "word": "artless",
     "definitions": [
       {
@@ -871,6 +938,7 @@
   },
   {
     "key": 67,
+    "group": 3,
     "word": "ascetic",
     "definitions": [
       {
@@ -889,6 +957,7 @@
   },
   {
     "key": 68,
+    "group": 3,
     "word": "assuage",
     "definitions": [
       {
@@ -907,6 +976,7 @@
   },
   {
     "key": 69,
+    "group": 3,
     "word": "betray",
     "definitions": [
       {
@@ -919,6 +989,7 @@
   },
   {
     "key": 70,
+    "group": 3,
     "word": "bucolic",
     "definitions": [
       {
@@ -931,6 +1002,7 @@
   },
   {
     "key": 71,
+    "group": 3,
     "word": "burgeon",
     "definitions": [
       {
@@ -943,6 +1015,7 @@
   },
   {
     "key": 72,
+    "group": 3,
     "word": "cacophonous",
     "definitions": [
       {
@@ -955,6 +1028,7 @@
   },
   {
     "key": 73,
+    "group": 3,
     "word": "canonize",
     "definitions": [
       {
@@ -967,6 +1041,7 @@
   },
   {
     "key": 74,
+    "group": 3,
     "word": "censure",
     "definitions": [
       {
@@ -979,6 +1054,7 @@
   },
   {
     "key": 75,
+    "group": 3,
     "word": "chicanery",
     "definitions": [
       {
@@ -991,6 +1067,7 @@
   },
   {
     "key": 76,
+    "group": 3,
     "word": "coalesce",
     "definitions": [
       {
@@ -1003,6 +1080,7 @@
   },
   {
     "key": 77,
+    "group": 3,
     "word": "cogent",
     "definitions": [
       {
@@ -1015,6 +1093,7 @@
   },
   {
     "key": 78,
+    "group": 3,
     "word": "compelling",
     "definitions": [
       {
@@ -1033,6 +1112,7 @@
   },
   {
     "key": 79,
+    "group": 3,
     "word": "contend",
     "definitions": [
       {
@@ -1057,6 +1137,7 @@
   },
   {
     "key": 80,
+    "group": 3,
     "word": "copious",
     "definitions": [
       {
@@ -1069,6 +1150,7 @@
   },
   {
     "key": 81,
+    "group": 3,
     "word": "cosmopolitan",
     "definitions": [
       {
@@ -1087,6 +1169,7 @@
   },
   {
     "key": 82,
+    "group": 3,
     "word": "deference",
     "definitions": [
       {
@@ -1099,6 +1182,7 @@
   },
   {
     "key": 83,
+    "group": 3,
     "word": "desultory",
     "definitions": [
       {
@@ -1111,6 +1195,7 @@
   },
   {
     "key": 84,
+    "group": 3,
     "word": "diffident",
     "definitions": [
       {
@@ -1123,6 +1208,7 @@
   },
   {
     "key": 85,
+    "group": 3,
     "word": "dilatory",
     "definitions": [
       {
@@ -1135,6 +1221,7 @@
   },
   {
     "key": 86,
+    "group": 3,
     "word": "equivocate",
     "definitions": [
       {
@@ -1147,6 +1234,7 @@
   },
   {
     "key": 87,
+    "group": 3,
     "word": "polarize",
     "definitions": [
       {
@@ -1159,6 +1247,7 @@
   },
   {
     "key": 88,
+    "group": 3,
     "word": "prodigal",
     "definitions": [
       {
@@ -1177,6 +1266,7 @@
   },
   {
     "key": 89,
+    "group": 3,
     "word": "verbose",
     "definitions": [
       {
@@ -1189,6 +1279,7 @@
   },
   {
     "key": 90,
+    "group": 4,
     "word": "abstain",
     "definitions": [
       {
@@ -1201,6 +1292,7 @@
   },
   {
     "key": 91,
+    "group": 4,
     "word": "approbation",
     "definitions": [
       {
@@ -1213,6 +1305,7 @@
   },
   {
     "key": 92,
+    "group": 4,
     "word": "cherish",
     "definitions": [
       {
@@ -1225,6 +1318,7 @@
   },
   {
     "key": 93,
+    "group": 4,
     "word": "corroborate",
     "definitions": [
       {
@@ -1237,6 +1331,7 @@
   },
   {
     "key": 94,
+    "group": 4,
     "word": "disparate",
     "definitions": [
       {
@@ -1249,6 +1344,7 @@
   },
   {
     "key": 95,
+    "group": 4,
     "word": "emulate",
     "definitions": [
       {
@@ -1261,6 +1357,7 @@
   },
   {
     "key": 96,
+    "group": 4,
     "word": "enervate",
     "definitions": [
       {
@@ -1273,6 +1370,7 @@
   },
   {
     "key": 97,
+    "group": 4,
     "word": "ephemeral",
     "definitions": [
       {
@@ -1285,6 +1383,7 @@
   },
   {
     "key": 98,
+    "group": 4,
     "word": "fervid",
     "definitions": [
       {
@@ -1297,6 +1396,7 @@
   },
   {
     "key": 99,
+    "group": 4,
     "word": "garrulous",
     "definitions": [
       {
@@ -1309,6 +1409,7 @@
   },
   {
     "key": 100,
+    "group": 4,
     "word": "incendiary",
     "definitions": [
       {
@@ -1321,6 +1422,7 @@
   },
   {
     "key": 101,
+    "group": 4,
     "word": "inimical",
     "definitions": [
       {
@@ -1333,6 +1435,7 @@
   },
   {
     "key": 102,
+    "group": 4,
     "word": "intimate",
     "definitions": [
       {
@@ -1345,6 +1448,7 @@
   },
   {
     "key": 103,
+    "group": 4,
     "word": "invigorate",
     "definitions": [
       {
@@ -1357,6 +1461,7 @@
   },
   {
     "key": 104,
+    "group": 4,
     "word": "mitigate",
     "definitions": [
       {
@@ -1369,6 +1474,7 @@
   },
   {
     "key": 105,
+    "group": 4,
     "word": "obsolete",
     "definitions": [
       {
@@ -1381,6 +1487,7 @@
   },
   {
     "key": 106,
+    "group": 4,
     "word": "opaque",
     "definitions": [
       {
@@ -1399,6 +1506,7 @@
   },
   {
     "key": 107,
+    "group": 4,
     "word": "paradigmatic",
     "definitions": [
       {
@@ -1411,6 +1519,7 @@
   },
   {
     "key": 108,
+    "group": 4,
     "word": "pedantic",
     "definitions": [
       {
@@ -1423,6 +1532,7 @@
   },
   {
     "key": 109,
+    "group": 4,
     "word": "placid",
     "definitions": [
       {
@@ -1435,6 +1545,7 @@
   },
   {
     "key": 110,
+    "group": 4,
     "word": "polemical",
     "definitions": [
       {
@@ -1447,6 +1558,7 @@
   },
   {
     "key": 111,
+    "group": 4,
     "word": "precipitate",
     "definitions": [
       {
@@ -1465,6 +1577,7 @@
   },
   {
     "key": 112,
+    "group": 4,
     "word": "profundity",
     "definitions": [
       {
@@ -1477,6 +1590,7 @@
   },
   {
     "key": 113,
+    "group": 4,
     "word": "prophetic",
     "definitions": [
       {
@@ -1489,6 +1603,7 @@
   },
   {
     "key": 114,
+    "group": 4,
     "word": "prudent",
     "definitions": [
       {
@@ -1501,6 +1616,7 @@
   },
   {
     "key": 115,
+    "group": 4,
     "word": "punctilious",
     "definitions": [
       {
@@ -1513,6 +1629,7 @@
   },
   {
     "key": 116,
+    "group": 4,
     "word": "recondite",
     "definitions": [
       {
@@ -1525,6 +1642,7 @@
   },
   {
     "key": 117,
+    "group": 4,
     "word": "scrupulous",
     "definitions": [
       {
@@ -1543,6 +1661,7 @@
   },
   {
     "key": 118,
+    "group": 4,
     "word": "tranquil",
     "definitions": [
       {
@@ -1555,6 +1674,7 @@
   },
   {
     "key": 119,
+    "group": 4,
     "word": "vacillate",
     "definitions": [
       {
@@ -1567,6 +1687,7 @@
   },
   {
     "key": 120,
+    "group": 5,
     "word": "aloof",
     "definitions": [
       {
@@ -1579,6 +1700,7 @@
   },
   {
     "key": 121,
+    "group": 5,
     "word": "clangor",
     "definitions": [
       {
@@ -1591,6 +1713,7 @@
   },
   {
     "key": 122,
+    "group": 5,
     "word": "conventional",
     "definitions": [
       {
@@ -1603,6 +1726,7 @@
   },
   {
     "key": 123,
+    "group": 5,
     "word": "debunk",
     "definitions": [
       {
@@ -1615,6 +1739,7 @@
   },
   {
     "key": 124,
+    "group": 5,
     "word": "diminutive",
     "definitions": [
       {
@@ -1627,6 +1752,7 @@
   },
   {
     "key": 125,
+    "group": 5,
     "word": "discernible",
     "definitions": [
       {
@@ -1639,6 +1765,7 @@
   },
   {
     "key": 126,
+    "group": 5,
     "word": "enigmatic",
     "definitions": [
       {
@@ -1651,6 +1778,7 @@
   },
   {
     "key": 127,
+    "group": 5,
     "word": "estranged",
     "definitions": [
       {
@@ -1663,6 +1791,7 @@
   },
   {
     "key": 128,
+    "group": 5,
     "word": "extravagant",
     "definitions": [
       {
@@ -1675,6 +1804,7 @@
   },
   {
     "key": 129,
+    "group": 5,
     "word": "fanciful",
     "definitions": [
       {
@@ -1687,6 +1817,7 @@
   },
   {
     "key": 130,
+    "group": 5,
     "word": "frivolous",
     "definitions": [
       {
@@ -1705,6 +1836,7 @@
   },
   {
     "key": 131,
+    "group": 5,
     "word": "heterogeneous",
     "definitions": [
       {
@@ -1717,6 +1849,7 @@
   },
   {
     "key": 132,
+    "group": 5,
     "word": "imperious",
     "definitions": [
       {
@@ -1729,6 +1862,7 @@
   },
   {
     "key": 133,
+    "group": 5,
     "word": "impertinent",
     "definitions": [
       {
@@ -1747,6 +1881,7 @@
   },
   {
     "key": 134,
+    "group": 5,
     "word": "invasive",
     "definitions": [
       {
@@ -1765,6 +1900,7 @@
   },
   {
     "key": 135,
+    "group": 5,
     "word": "irresolute",
     "definitions": [
       {
@@ -1777,6 +1913,7 @@
   },
   {
     "key": 136,
+    "group": 5,
     "word": "laudable",
     "definitions": [
       {
@@ -1789,6 +1926,7 @@
   },
   {
     "key": 137,
+    "group": 5,
     "word": "lax",
     "definitions": [
       {
@@ -1801,6 +1939,7 @@
   },
   {
     "key": 138,
+    "group": 5,
     "word": "marginalize",
     "definitions": [
       {
@@ -1813,6 +1952,7 @@
   },
   {
     "key": 139,
+    "group": 5,
     "word": "panache",
     "definitions": [
       {
@@ -1825,6 +1965,7 @@
   },
   {
     "key": 140,
+    "group": 5,
     "word": "plodding",
     "definitions": [
       {
@@ -1837,6 +1978,7 @@
   },
   {
     "key": 141,
+    "group": 5,
     "word": "prosaic",
     "definitions": [
       {
@@ -1849,6 +1991,7 @@
   },
   {
     "key": 142,
+    "group": 5,
     "word": "remedial",
     "definitions": [
       {
@@ -1861,6 +2004,7 @@
   },
   {
     "key": 143,
+    "group": 5,
     "word": "restive",
     "definitions": [
       {
@@ -1873,6 +2017,7 @@
   },
   {
     "key": 144,
+    "group": 5,
     "word": "sporadic",
     "definitions": [
       {
@@ -1885,6 +2030,7 @@
   },
   {
     "key": 145,
+    "group": 5,
     "word": "stigmatize",
     "definitions": [
       {
@@ -1897,6 +2043,7 @@
   },
   {
     "key": 146,
+    "group": 5,
     "word": "undermine",
     "definitions": [
       {
@@ -1909,6 +2056,7 @@
   },
   {
     "key": 147,
+    "group": 5,
     "word": "utterly",
     "definitions": [
       {
@@ -1921,6 +2069,7 @@
   },
   {
     "key": 148,
+    "group": 5,
     "word": "weary",
     "definitions": [
       {
@@ -1933,6 +2082,7 @@
   },
   {
     "key": 149,
+    "group": 5,
     "word": "zealous",
     "definitions": [
       {
@@ -1945,6 +2095,7 @@
   },
   {
     "key": 150,
+    "group": 6,
     "word": "admonish",
     "definitions": [
       {
@@ -1963,6 +2114,7 @@
   },
   {
     "key": 151,
+    "group": 6,
     "word": "aesthetic",
     "definitions": [
       {
@@ -1975,6 +2127,7 @@
   },
   {
     "key": 152,
+    "group": 6,
     "word": "affectation",
     "definitions": [
       {
@@ -1987,6 +2140,7 @@
   },
   {
     "key": 153,
+    "group": 6,
     "word": "alleviate",
     "definitions": [
       {
@@ -1999,6 +2153,7 @@
   },
   {
     "key": 154,
+    "group": 6,
     "word": "analogous",
     "definitions": [
       {
@@ -2011,6 +2166,7 @@
   },
   {
     "key": 155,
+    "group": 6,
     "word": "bolster",
     "definitions": [
       {
@@ -2023,6 +2179,7 @@
   },
   {
     "key": 156,
+    "group": 6,
     "word": "chauvinistic",
     "definitions": [
       {
@@ -2035,6 +2192,7 @@
   },
   {
     "key": 157,
+    "group": 6,
     "word": "connoisseur",
     "definitions": [
       {
@@ -2047,6 +2205,7 @@
   },
   {
     "key": 158,
+    "group": 6,
     "word": "dissemble",
     "definitions": [
       {
@@ -2059,6 +2218,7 @@
   },
   {
     "key": 159,
+    "group": 6,
     "word": "dogged",
     "definitions": [
       {
@@ -2071,6 +2231,7 @@
   },
   {
     "key": 160,
+    "group": 6,
     "word": "dupe",
     "definitions": [
       {
@@ -2083,6 +2244,7 @@
   },
   {
     "key": 161,
+    "group": 6,
     "word": "empirical",
     "definitions": [
       {
@@ -2095,6 +2257,7 @@
   },
   {
     "key": 162,
+    "group": 6,
     "word": "engender",
     "definitions": [
       {
@@ -2107,6 +2270,7 @@
   },
   {
     "key": 163,
+    "group": 6,
     "word": "entitled",
     "definitions": [
       {
@@ -2119,6 +2283,7 @@
   },
   {
     "key": 164,
+    "group": 6,
     "word": "pertinacious",
     "definitions": [
       {
@@ -2131,6 +2296,7 @@
   },
   {
     "key": 165,
+    "group": 6,
     "word": "presumptuous",
     "definitions": [
       {
@@ -2143,6 +2309,7 @@
   },
   {
     "key": 166,
+    "group": 6,
     "word": "probity",
     "definitions": [
       {
@@ -2155,6 +2322,7 @@
   },
   {
     "key": 167,
+    "group": 6,
     "word": "proliferate",
     "definitions": [
       {
@@ -2167,6 +2335,7 @@
   },
   {
     "key": 168,
+    "group": 6,
     "word": "specious",
     "definitions": [
       {
@@ -2179,6 +2348,7 @@
   },
   {
     "key": 169,
+    "group": 6,
     "word": "spurious",
     "definitions": [
       {
@@ -2191,6 +2361,7 @@
   },
   {
     "key": 170,
+    "group": 6,
     "word": "subjective",
     "definitions": [
       {
@@ -2203,6 +2374,7 @@
   },
   {
     "key": 171,
+    "group": 6,
     "word": "subvert",
     "definitions": [
       {
@@ -2215,6 +2387,7 @@
   },
   {
     "key": 172,
+    "group": 6,
     "word": "timorous",
     "definitions": [
       {
@@ -2227,6 +2400,7 @@
   },
   {
     "key": 173,
+    "group": 6,
     "word": "tortuous",
     "definitions": [
       {
@@ -2245,6 +2419,7 @@
   },
   {
     "key": 174,
+    "group": 6,
     "word": "tractable",
     "definitions": [
       {
@@ -2263,6 +2438,7 @@
   },
   {
     "key": 175,
+    "group": 6,
     "word": "transient",
     "definitions": [
       {
@@ -2275,6 +2451,7 @@
   },
   {
     "key": 176,
+    "group": 6,
     "word": "ubiquitous",
     "definitions": [
       {
@@ -2287,6 +2464,7 @@
   },
   {
     "key": 177,
+    "group": 6,
     "word": "underscore",
     "definitions": [
       {
@@ -2299,6 +2477,7 @@
   },
   {
     "key": 178,
+    "group": 6,
     "word": "venal",
     "definitions": [
       {
@@ -2311,6 +2490,7 @@
   },
   {
     "key": 179,
+    "group": 6,
     "word": "venerate",
     "definitions": [
       {
@@ -2323,6 +2503,7 @@
   },
   {
     "key": 180,
+    "group": 7,
     "word": "appease",
     "definitions": [
       {
@@ -2341,6 +2522,7 @@
   },
   {
     "key": 181,
+    "group": 7,
     "word": "arbitrary",
     "definitions": [
       {
@@ -2353,6 +2535,7 @@
   },
   {
     "key": 182,
+    "group": 7,
     "word": "archaic",
     "definitions": [
       {
@@ -2365,6 +2548,7 @@
   },
   {
     "key": 183,
+    "group": 7,
     "word": "clamorous",
     "definitions": [
       {
@@ -2377,6 +2561,7 @@
   },
   {
     "key": 184,
+    "group": 7,
     "word": "dearth",
     "definitions": [
       {
@@ -2389,6 +2574,7 @@
   },
   {
     "key": 185,
+    "group": 7,
     "word": "explicable",
     "definitions": [
       {
@@ -2401,6 +2587,7 @@
   },
   {
     "key": 186,
+    "group": 7,
     "word": "hyperbole",
     "definitions": [
       {
@@ -2413,6 +2600,7 @@
   },
   {
     "key": 187,
+    "group": 7,
     "word": "immutable",
     "definitions": [
       {
@@ -2425,6 +2613,7 @@
   },
   {
     "key": 188,
+    "group": 7,
     "word": "indefatigable",
     "definitions": [
       {
@@ -2437,6 +2626,7 @@
   },
   {
     "key": 189,
+    "group": 7,
     "word": "indolent",
     "definitions": [
       {
@@ -2449,6 +2639,7 @@
   },
   {
     "key": 190,
+    "group": 7,
     "word": "insular",
     "definitions": [
       {
@@ -2461,6 +2652,7 @@
   },
   {
     "key": 191,
+    "group": 7,
     "word": "intransigent",
     "definitions": [
       {
@@ -2473,6 +2665,7 @@
   },
   {
     "key": 192,
+    "group": 7,
     "word": "intrepid",
     "definitions": [
       {
@@ -2485,6 +2678,7 @@
   },
   {
     "key": 193,
+    "group": 7,
     "word": "irreverent",
     "definitions": [
       {
@@ -2497,6 +2691,7 @@
   },
   {
     "key": 194,
+    "group": 7,
     "word": "loathe",
     "definitions": [
       {
@@ -2509,6 +2704,7 @@
   },
   {
     "key": 195,
+    "group": 7,
     "word": "malign",
     "definitions": [
       {
@@ -2527,6 +2723,7 @@
   },
   {
     "key": 196,
+    "group": 7,
     "word": "malleable",
     "definitions": [
       {
@@ -2539,6 +2736,7 @@
   },
   {
     "key": 197,
+    "group": 7,
     "word": "neophyte",
     "definitions": [
       {
@@ -2551,6 +2749,7 @@
   },
   {
     "key": 198,
+    "group": 7,
     "word": "plastic",
     "definitions": [
       {
@@ -2569,6 +2768,7 @@
   },
   {
     "key": 199,
+    "group": 7,
     "word": "platitude",
     "definitions": [
       {
@@ -2581,6 +2781,7 @@
   },
   {
     "key": 200,
+    "group": 7,
     "word": "prescient",
     "definitions": [
       {
@@ -2593,6 +2794,7 @@
   },
   {
     "key": 201,
+    "group": 7,
     "word": "pristine",
     "definitions": [
       {
@@ -2605,6 +2807,7 @@
   },
   {
     "key": 202,
+    "group": 7,
     "word": "reproach",
     "definitions": [
       {
@@ -2617,6 +2820,7 @@
   },
   {
     "key": 203,
+    "group": 7,
     "word": "robust",
     "definitions": [
       {
@@ -2635,6 +2839,7 @@
   },
   {
     "key": 204,
+    "group": 7,
     "word": "salubrious",
     "definitions": [
       {
@@ -2653,6 +2858,7 @@
   },
   {
     "key": 205,
+    "group": 7,
     "word": "sanction",
     "definitions": [
       {
@@ -2671,6 +2877,7 @@
   },
   {
     "key": 206,
+    "group": 7,
     "word": "sedulous",
     "definitions": [
       {
@@ -2683,6 +2890,7 @@
   },
   {
     "key": 207,
+    "group": 7,
     "word": "soporific",
     "definitions": [
       {
@@ -2695,6 +2903,7 @@
   },
   {
     "key": 208,
+    "group": 7,
     "word": "stern",
     "definitions": [
       {
@@ -2707,6 +2916,7 @@
   },
   {
     "key": 209,
+    "group": 7,
     "word": "tendentious",
     "definitions": [
       {
@@ -2719,6 +2929,7 @@
   },
   {
     "key": 210,
+    "group": 8,
     "word": "accentuate",
     "definitions": [
       {
@@ -2731,6 +2942,7 @@
   },
   {
     "key": 211,
+    "group": 8,
     "word": "conjectural",
     "definitions": [
       {
@@ -2743,6 +2955,7 @@
   },
   {
     "key": 212,
+    "group": 8,
     "word": "convivial",
     "definitions": [
       {
@@ -2755,6 +2968,7 @@
   },
   {
     "key": 213,
+    "group": 8,
     "word": "decadent",
     "definitions": [
       {
@@ -2767,6 +2981,7 @@
   },
   {
     "key": 214,
+    "group": 8,
     "word": "egregious",
     "definitions": [
       {
@@ -2779,6 +2994,7 @@
   },
   {
     "key": 215,
+    "group": 8,
     "word": "evanescent",
     "definitions": [
       {
@@ -2791,6 +3007,7 @@
   },
   {
     "key": 216,
+    "group": 8,
     "word": "flamboyant",
     "definitions": [
       {
@@ -2803,6 +3020,7 @@
   },
   {
     "key": 217,
+    "group": 8,
     "word": "forestall",
     "definitions": [
       {
@@ -2815,6 +3033,7 @@
   },
   {
     "key": 218,
+    "group": 8,
     "word": "gainsay",
     "definitions": [
       {
@@ -2827,6 +3046,7 @@
   },
   {
     "key": 219,
+    "group": 8,
     "word": "galvanize",
     "definitions": [
       {
@@ -2839,6 +3059,7 @@
   },
   {
     "key": 220,
+    "group": 8,
     "word": "indiscriminate",
     "definitions": [
       {
@@ -2851,6 +3072,7 @@
   },
   {
     "key": 221,
+    "group": 8,
     "word": "innocuous",
     "definitions": [
       {
@@ -2863,6 +3085,7 @@
   },
   {
     "key": 222,
+    "group": 8,
     "word": "momentary",
     "definitions": [
       {
@@ -2875,6 +3098,7 @@
   },
   {
     "key": 223,
+    "group": 8,
     "word": "mundane",
     "definitions": [
       {
@@ -2887,6 +3111,7 @@
   },
   {
     "key": 224,
+    "group": 8,
     "word": "nettlesome",
     "definitions": [
       {
@@ -2899,6 +3124,7 @@
   },
   {
     "key": 225,
+    "group": 8,
     "word": "nullify",
     "definitions": [
       {
@@ -2911,6 +3137,7 @@
   },
   {
     "key": 226,
+    "group": 8,
     "word": "obviate",
     "definitions": [
       {
@@ -2923,6 +3150,7 @@
   },
   {
     "key": 227,
+    "group": 8,
     "word": "omnipresent",
     "definitions": [
       {
@@ -2935,6 +3163,7 @@
   },
   {
     "key": 228,
+    "group": 8,
     "word": "oust",
     "definitions": [
       {
@@ -2947,6 +3176,7 @@
   },
   {
     "key": 229,
+    "group": 8,
     "word": "palpable",
     "definitions": [
       {
@@ -2959,6 +3189,7 @@
   },
   {
     "key": 230,
+    "group": 8,
     "word": "perfidy",
     "definitions": [
       {
@@ -2971,6 +3202,7 @@
   },
   {
     "key": 231,
+    "group": 8,
     "word": "profuse",
     "definitions": [
       {
@@ -2983,6 +3215,7 @@
   },
   {
     "key": 232,
+    "group": 8,
     "word": "pugnacious",
     "definitions": [
       {
@@ -2995,6 +3228,7 @@
   },
   {
     "key": 233,
+    "group": 8,
     "word": "sagacious",
     "definitions": [
       {
@@ -3007,6 +3241,7 @@
   },
   {
     "key": 234,
+    "group": 8,
     "word": "sanguine",
     "definitions": [
       {
@@ -3019,6 +3254,7 @@
   },
   {
     "key": 235,
+    "group": 8,
     "word": "scant",
     "definitions": [
       {
@@ -3031,6 +3267,7 @@
   },
   {
     "key": 236,
+    "group": 8,
     "word": "skullduggery",
     "definitions": [
       {
@@ -3043,6 +3280,7 @@
   },
   {
     "key": 237,
+    "group": 8,
     "word": "trivial",
     "definitions": [
       {
@@ -3055,6 +3293,7 @@
   },
   {
     "key": 238,
+    "group": 8,
     "word": "utilitarian",
     "definitions": [
       {
@@ -3067,6 +3306,7 @@
   },
   {
     "key": 239,
+    "group": 8,
     "word": "vapid",
     "definitions": [
       {
@@ -3079,6 +3319,7 @@
   },
   {
     "key": 240,
+    "group": 9,
     "word": "boorish",
     "definitions": [
       {
@@ -3091,6 +3332,7 @@
   },
   {
     "key": 241,
+    "group": 9,
     "word": "brook",
     "definitions": [
       {
@@ -3103,6 +3345,7 @@
   },
   {
     "key": 242,
+    "group": 9,
     "word": "circumspect",
     "definitions": [
       {
@@ -3115,6 +3358,7 @@
   },
   {
     "key": 243,
+    "group": 9,
     "word": "comity",
     "definitions": [
       {
@@ -3127,6 +3371,7 @@
   },
   {
     "key": 244,
+    "group": 9,
     "word": "commensurate",
     "definitions": [
       {
@@ -3139,6 +3384,7 @@
   },
   {
     "key": 245,
+    "group": 9,
     "word": "cordial",
     "definitions": [
       {
@@ -3151,6 +3397,7 @@
   },
   {
     "key": 246,
+    "group": 9,
     "word": "deleterious",
     "definitions": [
       {
@@ -3163,6 +3410,7 @@
   },
   {
     "key": 247,
+    "group": 9,
     "word": "dichotomy",
     "definitions": [
       {
@@ -3175,6 +3423,7 @@
   },
   {
     "key": 248,
+    "group": 9,
     "word": "edify",
     "definitions": [
       {
@@ -3187,6 +3436,7 @@
   },
   {
     "key": 249,
+    "group": 9,
     "word": "elicit",
     "definitions": [
       {
@@ -3199,6 +3449,7 @@
   },
   {
     "key": 250,
+    "group": 9,
     "word": "erudite",
     "definitions": [
       {
@@ -3211,6 +3462,7 @@
   },
   {
     "key": 251,
+    "group": 9,
     "word": "fecund",
     "definitions": [
       {
@@ -3223,6 +3475,7 @@
   },
   {
     "key": 252,
+    "group": 9,
     "word": "feeble",
     "definitions": [
       {
@@ -3235,6 +3488,7 @@
   },
   {
     "key": 253,
+    "group": 9,
     "word": "felicitous",
     "definitions": [
       {
@@ -3253,6 +3507,7 @@
   },
   {
     "key": 254,
+    "group": 9,
     "word": "forbear",
     "definitions": [
       {
@@ -3265,6 +3520,7 @@
   },
   {
     "key": 255,
+    "group": 9,
     "word": "haphazard",
     "definitions": [
       {
@@ -3277,6 +3533,7 @@
   },
   {
     "key": 256,
+    "group": 9,
     "word": "hodgepodge",
     "definitions": [
       {
@@ -3289,6 +3546,7 @@
   },
   {
     "key": 257,
+    "group": 9,
     "word": "impede",
     "definitions": [
       {
@@ -3301,6 +3559,7 @@
   },
   {
     "key": 258,
+    "group": 9,
     "word": "impetuous",
     "definitions": [
       {
@@ -3313,6 +3572,7 @@
   },
   {
     "key": 259,
+    "group": 9,
     "word": "irascible",
     "definitions": [
       {
@@ -3325,6 +3585,7 @@
   },
   {
     "key": 260,
+    "group": 9,
     "word": "mercenary",
     "definitions": [
       {
@@ -3337,6 +3598,7 @@
   },
   {
     "key": 261,
+    "group": 9,
     "word": "meticulous",
     "definitions": [
       {
@@ -3349,6 +3611,7 @@
   },
   {
     "key": 262,
+    "group": 9,
     "word": "mordant",
     "definitions": [
       {
@@ -3361,6 +3624,7 @@
   },
   {
     "key": 263,
+    "group": 9,
     "word": "outstrip",
     "definitions": [
       {
@@ -3373,6 +3637,7 @@
   },
   {
     "key": 264,
+    "group": 9,
     "word": "precarious",
     "definitions": [
       {
@@ -3385,6 +3650,7 @@
   },
   {
     "key": 265,
+    "group": 9,
     "word": "quirky",
     "definitions": [
       {
@@ -3397,6 +3663,7 @@
   },
   {
     "key": 266,
+    "group": 9,
     "word": "repudiate",
     "definitions": [
       {
@@ -3409,6 +3676,7 @@
   },
   {
     "key": 267,
+    "group": 9,
     "word": "tact",
     "definitions": [
       {
@@ -3421,6 +3689,7 @@
   },
   {
     "key": 268,
+    "group": 9,
     "word": "trifling",
     "definitions": [
       {
@@ -3433,6 +3702,7 @@
   },
   {
     "key": 269,
+    "group": 9,
     "word": "turbulent",
     "definitions": [
       {
@@ -3445,6 +3715,7 @@
   },
   {
     "key": 270,
+    "group": 10,
     "word": "acumen",
     "definitions": [
       {
@@ -3457,6 +3728,7 @@
   },
   {
     "key": 271,
+    "group": 10,
     "word": "antithesis",
     "definitions": [
       {
@@ -3469,6 +3741,7 @@
   },
   {
     "key": 272,
+    "group": 10,
     "word": "ascribe",
     "definitions": [
       {
@@ -3481,6 +3754,7 @@
   },
   {
     "key": 273,
+    "group": 10,
     "word": "befuddled",
     "definitions": [
       {
@@ -3493,6 +3767,7 @@
   },
   {
     "key": 274,
+    "group": 10,
     "word": "eschew",
     "definitions": [
       {
@@ -3505,6 +3780,7 @@
   },
   {
     "key": 275,
+    "group": 10,
     "word": "esoteric",
     "definitions": [
       {
@@ -3517,6 +3793,7 @@
   },
   {
     "key": 276,
+    "group": 10,
     "word": "evasive",
     "definitions": [
       {
@@ -3529,6 +3806,7 @@
   },
   {
     "key": 277,
+    "group": 10,
     "word": "exculpate",
     "definitions": [
       {
@@ -3541,6 +3819,7 @@
   },
   {
     "key": 278,
+    "group": 10,
     "word": "expedite",
     "definitions": [
       {
@@ -3553,6 +3832,7 @@
   },
   {
     "key": 279,
+    "group": 10,
     "word": "fastidious",
     "definitions": [
       {
@@ -3565,6 +3845,7 @@
   },
   {
     "key": 280,
+    "group": 10,
     "word": "feign",
     "definitions": [
       {
@@ -3577,6 +3858,7 @@
   },
   {
     "key": 281,
+    "group": 10,
     "word": "furtive",
     "definitions": [
       {
@@ -3589,6 +3871,7 @@
   },
   {
     "key": 282,
+    "group": 10,
     "word": "hamper",
     "definitions": [
       {
@@ -3601,6 +3884,7 @@
   },
   {
     "key": 283,
+    "group": 10,
     "word": "indispensable",
     "definitions": [
       {
@@ -3613,6 +3897,7 @@
   },
   {
     "key": 284,
+    "group": 10,
     "word": "lament",
     "definitions": [
       {
@@ -3625,6 +3910,7 @@
   },
   {
     "key": 285,
+    "group": 10,
     "word": "myopic",
     "definitions": [
       {
@@ -3637,18 +3923,20 @@
   },
   {
     "key": 286,
+    "group": 10,
     "word": "nonchalant",
     "definitions": [
       {
         "part_of_speech": "adjective",
         "definition": "appearing casually calm or indifferent",
         "sentence": "Despite the chaos around her, she remained <u>nonchalant</u>.",
-        "synonyms": ["collected", "blasé", "insouciant"]
+        "synonyms": ["collected", "blas\u00c3\u00a9", "insouciant"]
       }
     ]
   },
   {
     "key": 287,
+    "group": 10,
     "word": "partial",
     "definitions": [
       {
@@ -3661,6 +3949,7 @@
   },
   {
     "key": 288,
+    "group": 10,
     "word": "pensive",
     "definitions": [
       {
@@ -3673,6 +3962,7 @@
   },
   {
     "key": 289,
+    "group": 10,
     "word": "portend",
     "definitions": [
       {
@@ -3685,6 +3975,7 @@
   },
   {
     "key": 290,
+    "group": 10,
     "word": "provincial",
     "definitions": [
       {
@@ -3697,6 +3988,7 @@
   },
   {
     "key": 291,
+    "group": 10,
     "word": "rudimentary",
     "definitions": [
       {
@@ -3709,6 +4001,7 @@
   },
   {
     "key": 292,
+    "group": 10,
     "word": "salutary",
     "definitions": [
       {
@@ -3721,6 +4014,7 @@
   },
   {
     "key": 293,
+    "group": 10,
     "word": "sever",
     "definitions": [
       {
@@ -3733,6 +4027,7 @@
   },
   {
     "key": 294,
+    "group": 10,
     "word": "slight",
     "definitions": [
       {
@@ -3745,6 +4040,7 @@
   },
   {
     "key": 295,
+    "group": 10,
     "word": "somnolent",
     "definitions": [
       {
@@ -3757,6 +4053,7 @@
   },
   {
     "key": 296,
+    "group": 10,
     "word": "stoic",
     "definitions": [
       {
@@ -3769,6 +4066,7 @@
   },
   {
     "key": 297,
+    "group": 10,
     "word": "supersede",
     "definitions": [
       {
@@ -3781,6 +4079,7 @@
   },
   {
     "key": 298,
+    "group": 10,
     "word": "tout",
     "definitions": [
       {
@@ -3793,6 +4092,7 @@
   },
   {
     "key": 299,
+    "group": 10,
     "word": "wane",
     "definitions": [
       {
@@ -3805,6 +4105,7 @@
   },
   {
     "key": 300,
+    "group": 11,
     "word": "abhor",
     "definitions": [
       {
@@ -3817,6 +4118,7 @@
   },
   {
     "key": 301,
+    "group": 11,
     "word": "boisterous",
     "definitions": [
       {
@@ -3829,6 +4131,7 @@
   },
   {
     "key": 302,
+    "group": 11,
     "word": "chivalrous",
     "definitions": [
       {
@@ -3841,6 +4144,7 @@
   },
   {
     "key": 303,
+    "group": 11,
     "word": "churlish",
     "definitions": [
       {
@@ -3853,6 +4157,7 @@
   },
   {
     "key": 304,
+    "group": 11,
     "word": "clandestine",
     "definitions": [
       {
@@ -3865,6 +4170,7 @@
   },
   {
     "key": 305,
+    "group": 11,
     "word": "complacent",
     "definitions": [
       {
@@ -3877,6 +4183,7 @@
   },
   {
     "key": 306,
+    "group": 11,
     "word": "cumbersome",
     "definitions": [
       {
@@ -3889,6 +4196,7 @@
   },
   {
     "key": 307,
+    "group": 11,
     "word": "debilitating",
     "definitions": [
       {
@@ -3901,6 +4209,7 @@
   },
   {
     "key": 308,
+    "group": 11,
     "word": "deliberate",
     "definitions": [
       {
@@ -3919,6 +4228,7 @@
   },
   {
     "key": 309,
+    "group": 11,
     "word": "droll",
     "definitions": [
       {
@@ -3931,6 +4241,7 @@
   },
   {
     "key": 310,
+    "group": 11,
     "word": "eccentric",
     "definitions": [
       {
@@ -3943,6 +4254,7 @@
   },
   {
     "key": 311,
+    "group": 11,
     "word": "fractious",
     "definitions": [
       {
@@ -3955,6 +4267,7 @@
   },
   {
     "key": 312,
+    "group": 11,
     "word": "limpid",
     "definitions": [
       {
@@ -3967,6 +4280,7 @@
   },
   {
     "key": 313,
+    "group": 11,
     "word": "mawkish",
     "definitions": [
       {
@@ -3979,6 +4293,7 @@
   },
   {
     "key": 314,
+    "group": 11,
     "word": "obeisance",
     "definitions": [
       {
@@ -3991,6 +4306,7 @@
   },
   {
     "key": 315,
+    "group": 11,
     "word": "ostentatious",
     "definitions": [
       {
@@ -4003,6 +4319,7 @@
   },
   {
     "key": 316,
+    "group": 11,
     "word": "panacea",
     "definitions": [
       {
@@ -4015,6 +4332,7 @@
   },
   {
     "key": 317,
+    "group": 11,
     "word": "perfunctory",
     "definitions": [
       {
@@ -4027,6 +4345,7 @@
   },
   {
     "key": 318,
+    "group": 11,
     "word": "perilous",
     "definitions": [
       {
@@ -4039,6 +4358,7 @@
   },
   {
     "key": 319,
+    "group": 11,
     "word": "pervasive",
     "definitions": [
       {
@@ -4051,6 +4371,7 @@
   },
   {
     "key": 320,
+    "group": 11,
     "word": "preclude",
     "definitions": [
       {
@@ -4063,6 +4384,7 @@
   },
   {
     "key": 321,
+    "group": 11,
     "word": "predilection",
     "definitions": [
       {
@@ -4075,6 +4397,7 @@
   },
   {
     "key": 322,
+    "group": 11,
     "word": "rapacious",
     "definitions": [
       {
@@ -4087,6 +4410,7 @@
   },
   {
     "key": 323,
+    "group": 11,
     "word": "relish",
     "definitions": [
       {
@@ -4099,6 +4423,7 @@
   },
   {
     "key": 324,
+    "group": 11,
     "word": "satirical",
     "definitions": [
       {
@@ -4111,6 +4436,7 @@
   },
   {
     "key": 325,
+    "group": 11,
     "word": "sham",
     "definitions": [
       {
@@ -4123,6 +4449,7 @@
   },
   {
     "key": 326,
+    "group": 11,
     "word": "skirt",
     "definitions": [
       {
@@ -4135,6 +4462,7 @@
   },
   {
     "key": 327,
+    "group": 11,
     "word": "sluggish",
     "definitions": [
       {
@@ -4147,6 +4475,7 @@
   },
   {
     "key": 328,
+    "group": 11,
     "word": "spartan",
     "definitions": [
       {
@@ -4159,6 +4488,7 @@
   },
   {
     "key": 329,
+    "group": 11,
     "word": "truculent",
     "definitions": [
       {
@@ -4171,6 +4501,7 @@
   },
   {
     "key": 330,
+    "group": 12,
     "word": "acrimonious",
     "definitions": [
       {
@@ -4183,6 +4514,7 @@
   },
   {
     "key": 331,
+    "group": 12,
     "word": "belligerent",
     "definitions": [
       {
@@ -4195,6 +4527,7 @@
   },
   {
     "key": 332,
+    "group": 12,
     "word": "beneficent",
     "definitions": [
       {
@@ -4207,6 +4540,7 @@
   },
   {
     "key": 333,
+    "group": 12,
     "word": "canny",
     "definitions": [
       {
@@ -4219,6 +4553,7 @@
   },
   {
     "key": 334,
+    "group": 12,
     "word": "cavalier",
     "definitions": [
       {
@@ -4231,6 +4566,7 @@
   },
   {
     "key": 335,
+    "group": 12,
     "word": "distressed",
     "definitions": [
       {
@@ -4243,6 +4579,7 @@
   },
   {
     "key": 336,
+    "group": 12,
     "word": "dwindling",
     "definitions": [
       {
@@ -4255,6 +4592,7 @@
   },
   {
     "key": 337,
+    "group": 12,
     "word": "eclipse",
     "definitions": [
       {
@@ -4267,6 +4605,7 @@
   },
   {
     "key": 338,
+    "group": 12,
     "word": "encyclopedic",
     "definitions": [
       {
@@ -4279,6 +4618,7 @@
   },
   {
     "key": 339,
+    "group": 12,
     "word": "exacerbate",
     "definitions": [
       {
@@ -4291,6 +4631,7 @@
   },
   {
     "key": 340,
+    "group": 12,
     "word": "exasperated",
     "definitions": [
       {
@@ -4303,6 +4644,7 @@
   },
   {
     "key": 341,
+    "group": 12,
     "word": "fungible",
     "definitions": [
       {
@@ -4315,6 +4657,7 @@
   },
   {
     "key": 342,
+    "group": 12,
     "word": "hackneyed",
     "definitions": [
       {
@@ -4327,6 +4670,7 @@
   },
   {
     "key": 343,
+    "group": 12,
     "word": "incongruous",
     "definitions": [
       {
@@ -4339,6 +4683,7 @@
   },
   {
     "key": 344,
+    "group": 12,
     "word": "interchangeable",
     "definitions": [
       {
@@ -4351,6 +4696,7 @@
   },
   {
     "key": 345,
+    "group": 12,
     "word": "laconic",
     "definitions": [
       {
@@ -4363,6 +4709,7 @@
   },
   {
     "key": 346,
+    "group": 12,
     "word": "lucrative",
     "definitions": [
       {
@@ -4375,6 +4722,7 @@
   },
   {
     "key": 347,
+    "group": 12,
     "word": "magisterial",
     "definitions": [
       {
@@ -4393,6 +4741,7 @@
   },
   {
     "key": 348,
+    "group": 12,
     "word": "onerous",
     "definitions": [
       {
@@ -4405,6 +4754,7 @@
   },
   {
     "key": 349,
+    "group": 12,
     "word": "opprobrium",
     "definitions": [
       {
@@ -4417,6 +4767,7 @@
   },
   {
     "key": 350,
+    "group": 12,
     "word": "parsimonious",
     "definitions": [
       {
@@ -4429,6 +4780,7 @@
   },
   {
     "key": 351,
+    "group": 12,
     "word": "peripheral",
     "definitions": [
       {
@@ -4441,6 +4793,7 @@
   },
   {
     "key": 352,
+    "group": 12,
     "word": "provocative",
     "definitions": [
       {
@@ -4453,6 +4806,7 @@
   },
   {
     "key": 353,
+    "group": 12,
     "word": "renounce",
     "definitions": [
       {
@@ -4465,6 +4819,7 @@
   },
   {
     "key": 354,
+    "group": 12,
     "word": "tempestuous",
     "definitions": [
       {
@@ -4483,6 +4838,7 @@
   },
   {
     "key": 355,
+    "group": 12,
     "word": "tenable",
     "definitions": [
       {
@@ -4495,6 +4851,7 @@
   },
   {
     "key": 356,
+    "group": 12,
     "word": "transgression",
     "definitions": [
       {
@@ -4507,6 +4864,7 @@
   },
   {
     "key": 357,
+    "group": 12,
     "word": "urbane",
     "definitions": [
       {
@@ -4519,6 +4877,7 @@
   },
   {
     "key": 358,
+    "group": 12,
     "word": "verisimilitude",
     "definitions": [
       {
@@ -4531,6 +4890,7 @@
   },
   {
     "key": 359,
+    "group": 12,
     "word": "vitiate",
     "definitions": [
       {
@@ -4543,6 +4903,7 @@
   },
   {
     "key": 360,
+    "group": 13,
     "word": "affinity",
     "definitions": [
       {
@@ -4561,6 +4922,7 @@
   },
   {
     "key": 361,
+    "group": 13,
     "word": "altruistic",
     "definitions": [
       {
@@ -4573,6 +4935,7 @@
   },
   {
     "key": 362,
+    "group": 13,
     "word": "baroque",
     "definitions": [
       {
@@ -4585,6 +4948,7 @@
   },
   {
     "key": 363,
+    "group": 13,
     "word": "byzantine",
     "definitions": [
       {
@@ -4597,6 +4961,7 @@
   },
   {
     "key": 364,
+    "group": 13,
     "word": "compromise",
     "definitions": [
       {
@@ -4609,6 +4974,7 @@
   },
   {
     "key": 365,
+    "group": 13,
     "word": "conciliatory",
     "definitions": [
       {
@@ -4621,6 +4987,7 @@
   },
   {
     "key": 366,
+    "group": 13,
     "word": "countenance",
     "definitions": [
       {
@@ -4639,6 +5006,7 @@
   },
   {
     "key": 367,
+    "group": 13,
     "word": "covert",
     "definitions": [
       {
@@ -4651,6 +5019,7 @@
   },
   {
     "key": 368,
+    "group": 13,
     "word": "credible",
     "definitions": [
       {
@@ -4663,6 +5032,7 @@
   },
   {
     "key": 369,
+    "group": 13,
     "word": "diffuse",
     "definitions": [
       {
@@ -4681,6 +5051,7 @@
   },
   {
     "key": 370,
+    "group": 13,
     "word": "documentary",
     "definitions": [
       {
@@ -4693,6 +5064,7 @@
   },
   {
     "key": 371,
+    "group": 13,
     "word": "exhaustive",
     "definitions": [
       {
@@ -4705,6 +5077,7 @@
   },
   {
     "key": 372,
+    "group": 13,
     "word": "exhilarating",
     "definitions": [
       {
@@ -4717,6 +5090,7 @@
   },
   {
     "key": 373,
+    "group": 13,
     "word": "extraneous",
     "definitions": [
       {
@@ -4729,6 +5103,7 @@
   },
   {
     "key": 374,
+    "group": 13,
     "word": "fervor",
     "definitions": [
       {
@@ -4741,6 +5116,7 @@
   },
   {
     "key": 375,
+    "group": 13,
     "word": "futile",
     "definitions": [
       {
@@ -4753,6 +5129,7 @@
   },
   {
     "key": 376,
+    "group": 13,
     "word": "illusory",
     "definitions": [
       {
@@ -4765,6 +5142,7 @@
   },
   {
     "key": 377,
+    "group": 13,
     "word": "invidious",
     "definitions": [
       {
@@ -4783,6 +5161,7 @@
   },
   {
     "key": 378,
+    "group": 13,
     "word": "lethargic",
     "definitions": [
       {
@@ -4795,6 +5174,7 @@
   },
   {
     "key": 379,
+    "group": 13,
     "word": "metaphorical",
     "definitions": [
       {
@@ -4807,6 +5187,7 @@
   },
   {
     "key": 380,
+    "group": 13,
     "word": "mimic",
     "definitions": [
       {
@@ -4819,6 +5200,7 @@
   },
   {
     "key": 381,
+    "group": 13,
     "word": "numinous",
     "definitions": [
       {
@@ -4831,6 +5213,7 @@
   },
   {
     "key": 382,
+    "group": 13,
     "word": "obscure",
     "definitions": [
       {
@@ -4849,6 +5232,7 @@
   },
   {
     "key": 383,
+    "group": 13,
     "word": "overt",
     "definitions": [
       {
@@ -4861,6 +5245,7 @@
   },
   {
     "key": 384,
+    "group": 13,
     "word": "pellucid",
     "definitions": [
       {
@@ -4879,6 +5264,7 @@
   },
   {
     "key": 385,
+    "group": 13,
     "word": "perpetuate",
     "definitions": [
       {
@@ -4891,6 +5277,7 @@
   },
   {
     "key": 386,
+    "group": 13,
     "word": "rational",
     "definitions": [
       {
@@ -4903,6 +5290,7 @@
   },
   {
     "key": 387,
+    "group": 13,
     "word": "scathing",
     "definitions": [
       {
@@ -4915,6 +5303,7 @@
   },
   {
     "key": 388,
+    "group": 13,
     "word": "subtle",
     "definitions": [
       {
@@ -4927,6 +5316,7 @@
   },
   {
     "key": 389,
+    "group": 13,
     "word": "superficial",
     "definitions": [
       {
@@ -4945,6 +5335,7 @@
   },
   {
     "key": 390,
+    "group": 14,
     "word": "acquiesce",
     "definitions": [
       {
@@ -4957,6 +5348,7 @@
   },
   {
     "key": 391,
+    "group": 14,
     "word": "adroit",
     "definitions": [
       {
@@ -4969,6 +5361,7 @@
   },
   {
     "key": 392,
+    "group": 14,
     "word": "amend",
     "definitions": [
       {
@@ -4981,6 +5374,7 @@
   },
   {
     "key": 393,
+    "group": 14,
     "word": "animus",
     "definitions": [
       {
@@ -4993,6 +5387,7 @@
   },
   {
     "key": 394,
+    "group": 14,
     "word": "apologist",
     "definitions": [
       {
@@ -5005,6 +5400,7 @@
   },
   {
     "key": 395,
+    "group": 14,
     "word": "astringent",
     "definitions": [
       {
@@ -5017,6 +5413,7 @@
   },
   {
     "key": 396,
+    "group": 14,
     "word": "collaborate",
     "definitions": [
       {
@@ -5035,6 +5432,7 @@
   },
   {
     "key": 397,
+    "group": 14,
     "word": "competent",
     "definitions": [
       {
@@ -5047,6 +5445,7 @@
   },
   {
     "key": 398,
+    "group": 14,
     "word": "correlate",
     "definitions": [
       {
@@ -5059,6 +5458,7 @@
   },
   {
     "key": 399,
+    "group": 14,
     "word": "deride",
     "definitions": [
       {
@@ -5071,6 +5471,7 @@
   },
   {
     "key": 400,
+    "group": 14,
     "word": "dictate",
     "definitions": [
       {
@@ -5083,6 +5484,7 @@
   },
   {
     "key": 401,
+    "group": 14,
     "word": "discreet",
     "definitions": [
       {
@@ -5095,6 +5497,7 @@
   },
   {
     "key": 402,
+    "group": 14,
     "word": "divorced",
     "definitions": [
       {
@@ -5107,6 +5510,7 @@
   },
   {
     "key": 403,
+    "group": 14,
     "word": "elitist",
     "definitions": [
       {
@@ -5125,6 +5529,7 @@
   },
   {
     "key": 404,
+    "group": 14,
     "word": "exacting",
     "definitions": [
       {
@@ -5137,6 +5542,7 @@
   },
   {
     "key": 405,
+    "group": 14,
     "word": "flummoxed",
     "definitions": [
       {
@@ -5149,6 +5555,7 @@
   },
   {
     "key": 406,
+    "group": 14,
     "word": "fruitful",
     "definitions": [
       {
@@ -5161,6 +5568,7 @@
   },
   {
     "key": 407,
+    "group": 14,
     "word": "inborn",
     "definitions": [
       {
@@ -5173,6 +5581,7 @@
   },
   {
     "key": 408,
+    "group": 14,
     "word": "polymath",
     "definitions": [
       {
@@ -5185,6 +5594,7 @@
   },
   {
     "key": 409,
+    "group": 14,
     "word": "reticent",
     "definitions": [
       {
@@ -5197,6 +5607,7 @@
   },
   {
     "key": 410,
+    "group": 14,
     "word": "stringent",
     "definitions": [
       {
@@ -5209,6 +5620,7 @@
   },
   {
     "key": 411,
+    "group": 14,
     "word": "subservient",
     "definitions": [
       {
@@ -5227,6 +5639,7 @@
   },
   {
     "key": 412,
+    "group": 14,
     "word": "surreptitious",
     "definitions": [
       {
@@ -5239,6 +5652,7 @@
   },
   {
     "key": 413,
+    "group": 14,
     "word": "tantalizing",
     "definitions": [
       {
@@ -5251,6 +5665,7 @@
   },
   {
     "key": 414,
+    "group": 14,
     "word": "tantamount",
     "definitions": [
       {
@@ -5263,6 +5678,7 @@
   },
   {
     "key": 415,
+    "group": 14,
     "word": "torpor",
     "definitions": [
       {
@@ -5275,6 +5691,7 @@
   },
   {
     "key": 416,
+    "group": 14,
     "word": "trenchant",
     "definitions": [
       {
@@ -5287,6 +5704,7 @@
   },
   {
     "key": 417,
+    "group": 14,
     "word": "umbrage",
     "definitions": [
       {
@@ -5299,6 +5717,7 @@
   },
   {
     "key": 418,
+    "group": 14,
     "word": "versatile",
     "definitions": [
       {
@@ -5311,6 +5730,7 @@
   },
   {
     "key": 419,
+    "group": 14,
     "word": "wayward",
     "definitions": [
       {
@@ -5323,6 +5743,7 @@
   },
   {
     "key": 420,
+    "group": 15,
     "word": "alienate",
     "definitions": [
       {
@@ -5335,6 +5756,7 @@
   },
   {
     "key": 421,
+    "group": 15,
     "word": "apathy",
     "definitions": [
       {
@@ -5347,6 +5769,7 @@
   },
   {
     "key": 422,
+    "group": 15,
     "word": "apropos",
     "definitions": [
       {
@@ -5359,6 +5782,7 @@
   },
   {
     "key": 423,
+    "group": 15,
     "word": "apt",
     "definitions": [
       {
@@ -5383,6 +5807,7 @@
   },
   {
     "key": 424,
+    "group": 15,
     "word": "cloak",
     "definitions": [
       {
@@ -5395,6 +5820,7 @@
   },
   {
     "key": 425,
+    "group": 15,
     "word": "consensus",
     "definitions": [
       {
@@ -5407,6 +5833,7 @@
   },
   {
     "key": 426,
+    "group": 15,
     "word": "distort",
     "definitions": [
       {
@@ -5419,6 +5846,7 @@
   },
   {
     "key": 427,
+    "group": 15,
     "word": "divergent",
     "definitions": [
       {
@@ -5431,6 +5859,7 @@
   },
   {
     "key": 428,
+    "group": 15,
     "word": "elated",
     "definitions": [
       {
@@ -5443,6 +5872,7 @@
   },
   {
     "key": 429,
+    "group": 15,
     "word": "enchant",
     "definitions": [
       {
@@ -5455,6 +5885,7 @@
   },
   {
     "key": 430,
+    "group": 15,
     "word": "entrenched",
     "definitions": [
       {
@@ -5467,6 +5898,7 @@
   },
   {
     "key": 431,
+    "group": 15,
     "word": "exotic",
     "definitions": [
       {
@@ -5479,6 +5911,7 @@
   },
   {
     "key": 432,
+    "group": 15,
     "word": "exploitative",
     "definitions": [
       {
@@ -5491,6 +5924,7 @@
   },
   {
     "key": 433,
+    "group": 15,
     "word": "foreseeable",
     "definitions": [
       {
@@ -5503,6 +5937,7 @@
   },
   {
     "key": 434,
+    "group": 15,
     "word": "forsake",
     "definitions": [
       {
@@ -5515,6 +5950,7 @@
   },
   {
     "key": 435,
+    "group": 15,
     "word": "gratify",
     "definitions": [
       {
@@ -5527,6 +5963,7 @@
   },
   {
     "key": 436,
+    "group": 15,
     "word": "heed",
     "definitions": [
       {
@@ -5539,6 +5976,7 @@
   },
   {
     "key": 437,
+    "group": 15,
     "word": "judicious",
     "definitions": [
       {
@@ -5551,6 +5989,7 @@
   },
   {
     "key": 438,
+    "group": 15,
     "word": "lucid",
     "definitions": [
       {
@@ -5563,6 +6002,7 @@
   },
   {
     "key": 439,
+    "group": 15,
     "word": "pertinent",
     "definitions": [
       {
@@ -5575,6 +6015,7 @@
   },
   {
     "key": 440,
+    "group": 15,
     "word": "propriety",
     "definitions": [
       {
@@ -5587,6 +6028,7 @@
   },
   {
     "key": 441,
+    "group": 15,
     "word": "scintillating",
     "definitions": [
       {
@@ -5599,6 +6041,7 @@
   },
   {
     "key": 442,
+    "group": 15,
     "word": "sensational",
     "definitions": [
       {
@@ -5611,6 +6054,7 @@
   },
   {
     "key": 443,
+    "group": 15,
     "word": "sophisticated",
     "definitions": [
       {
@@ -5629,6 +6073,7 @@
   },
   {
     "key": 444,
+    "group": 15,
     "word": "strife",
     "definitions": [
       {
@@ -5641,6 +6086,7 @@
   },
   {
     "key": 445,
+    "group": 15,
     "word": "understated",
     "definitions": [
       {
@@ -5653,6 +6099,7 @@
   },
   {
     "key": 446,
+    "group": 15,
     "word": "unscrupulous",
     "definitions": [
       {
@@ -5665,6 +6112,7 @@
   },
   {
     "key": 447,
+    "group": 15,
     "word": "veracity",
     "definitions": [
       {
@@ -5677,6 +6125,7 @@
   },
   {
     "key": 448,
+    "group": 15,
     "word": "virulent",
     "definitions": [
       {
@@ -5689,6 +6138,7 @@
   },
   {
     "key": 449,
+    "group": 15,
     "word": "volatile",
     "definitions": [
       {
@@ -5701,6 +6151,7 @@
   },
   {
     "key": 450,
+    "group": 16,
     "word": "antedate",
     "definitions": [
       {
@@ -5713,6 +6164,7 @@
   },
   {
     "key": 451,
+    "group": 16,
     "word": "banish",
     "definitions": [
       {
@@ -5725,6 +6177,7 @@
   },
   {
     "key": 452,
+    "group": 16,
     "word": "bridle",
     "definitions": [
       {
@@ -5737,6 +6190,7 @@
   },
   {
     "key": 453,
+    "group": 16,
     "word": "comply",
     "definitions": [
       {
@@ -5749,6 +6203,7 @@
   },
   {
     "key": 454,
+    "group": 16,
     "word": "crestfallen",
     "definitions": [
       {
@@ -5761,6 +6216,7 @@
   },
   {
     "key": 455,
+    "group": 16,
     "word": "curtail",
     "definitions": [
       {
@@ -5773,6 +6229,7 @@
   },
   {
     "key": 456,
+    "group": 16,
     "word": "elucidate",
     "definitions": [
       {
@@ -5785,6 +6242,7 @@
   },
   {
     "key": 457,
+    "group": 16,
     "word": "evade",
     "definitions": [
       {
@@ -5803,6 +6261,7 @@
   },
   {
     "key": 458,
+    "group": 16,
     "word": "feckless",
     "definitions": [
       {
@@ -5815,6 +6274,7 @@
   },
   {
     "key": 459,
+    "group": 16,
     "word": "fester",
     "definitions": [
       {
@@ -5827,6 +6287,7 @@
   },
   {
     "key": 460,
+    "group": 16,
     "word": "iconoclastic",
     "definitions": [
       {
@@ -5839,6 +6300,7 @@
   },
   {
     "key": 461,
+    "group": 16,
     "word": "immure",
     "definitions": [
       {
@@ -5851,6 +6313,7 @@
   },
   {
     "key": 462,
+    "group": 16,
     "word": "improvise",
     "definitions": [
       {
@@ -5863,6 +6326,7 @@
   },
   {
     "key": 463,
+    "group": 16,
     "word": "inhibit",
     "definitions": [
       {
@@ -5875,6 +6339,7 @@
   },
   {
     "key": 464,
+    "group": 16,
     "word": "inscrutable",
     "definitions": [
       {
@@ -5887,6 +6352,7 @@
   },
   {
     "key": 465,
+    "group": 16,
     "word": "lionize",
     "definitions": [
       {
@@ -5899,6 +6365,7 @@
   },
   {
     "key": 466,
+    "group": 16,
     "word": "monotonous",
     "definitions": [
       {
@@ -5911,6 +6378,7 @@
   },
   {
     "key": 467,
+    "group": 16,
     "word": "peculiar",
     "definitions": [
       {
@@ -5923,6 +6391,7 @@
   },
   {
     "key": 468,
+    "group": 16,
     "word": "premeditate",
     "definitions": [
       {
@@ -5935,6 +6404,7 @@
   },
   {
     "key": 469,
+    "group": 16,
     "word": "profligate",
     "definitions": [
       {
@@ -5947,6 +6417,7 @@
   },
   {
     "key": 470,
+    "group": 16,
     "word": "reconcile",
     "definitions": [
       {
@@ -5959,6 +6430,7 @@
   },
   {
     "key": 471,
+    "group": 16,
     "word": "refine",
     "definitions": [
       {
@@ -5977,6 +6449,7 @@
   },
   {
     "key": 472,
+    "group": 16,
     "word": "relinquish",
     "definitions": [
       {
@@ -5989,6 +6462,7 @@
   },
   {
     "key": 473,
+    "group": 16,
     "word": "ruminate",
     "definitions": [
       {
@@ -6001,6 +6475,7 @@
   },
   {
     "key": 474,
+    "group": 16,
     "word": "skittish",
     "definitions": [
       {
@@ -6013,6 +6488,7 @@
   },
   {
     "key": 475,
+    "group": 16,
     "word": "superfluous",
     "definitions": [
       {
@@ -6025,6 +6501,7 @@
   },
   {
     "key": 476,
+    "group": 16,
     "word": "synoptic",
     "definitions": [
       {
@@ -6037,6 +6514,7 @@
   },
   {
     "key": 477,
+    "group": 16,
     "word": "thorough",
     "definitions": [
       {
@@ -6049,6 +6527,7 @@
   },
   {
     "key": 478,
+    "group": 16,
     "word": "visionary",
     "definitions": [
       {
@@ -6061,6 +6540,7 @@
   },
   {
     "key": 479,
+    "group": 16,
     "word": "vociferous",
     "definitions": [
       {
@@ -6073,6 +6553,7 @@
   },
   {
     "key": 480,
+    "group": 17,
     "word": "acclaim",
     "definitions": [
       {
@@ -6091,6 +6572,7 @@
   },
   {
     "key": 481,
+    "group": 17,
     "word": "ascertain",
     "definitions": [
       {
@@ -6103,6 +6585,7 @@
   },
   {
     "key": 482,
+    "group": 17,
     "word": "assertive",
     "definitions": [
       {
@@ -6115,6 +6598,7 @@
   },
   {
     "key": 483,
+    "group": 17,
     "word": "bogus",
     "definitions": [
       {
@@ -6127,6 +6611,7 @@
   },
   {
     "key": 484,
+    "group": 17,
     "word": "cataclysmic",
     "definitions": [
       {
@@ -6139,6 +6624,7 @@
   },
   {
     "key": 485,
+    "group": 17,
     "word": "circumscribe",
     "definitions": [
       {
@@ -6151,6 +6637,7 @@
   },
   {
     "key": 486,
+    "group": 17,
     "word": "complementary",
     "definitions": [
       {
@@ -6163,6 +6650,7 @@
   },
   {
     "key": 487,
+    "group": 17,
     "word": "contentious",
     "definitions": [
       {
@@ -6175,6 +6663,7 @@
   },
   {
     "key": 488,
+    "group": 17,
     "word": "disingenuous",
     "definitions": [
       {
@@ -6187,6 +6676,7 @@
   },
   {
     "key": 489,
+    "group": 17,
     "word": "divulge",
     "definitions": [
       {
@@ -6199,6 +6689,7 @@
   },
   {
     "key": 490,
+    "group": 17,
     "word": "dogmatic",
     "definitions": [
       {
@@ -6211,6 +6702,7 @@
   },
   {
     "key": 491,
+    "group": 17,
     "word": "fallacious",
     "definitions": [
       {
@@ -6223,6 +6715,7 @@
   },
   {
     "key": 492,
+    "group": 17,
     "word": "foolhardy",
     "definitions": [
       {
@@ -6235,6 +6728,7 @@
   },
   {
     "key": 493,
+    "group": 17,
     "word": "hinder",
     "definitions": [
       {
@@ -6247,6 +6741,7 @@
   },
   {
     "key": 494,
+    "group": 17,
     "word": "impair",
     "definitions": [
       {
@@ -6259,6 +6754,7 @@
   },
   {
     "key": 495,
+    "group": 17,
     "word": "impugn",
     "definitions": [
       {
@@ -6271,6 +6767,7 @@
   },
   {
     "key": 496,
+    "group": 17,
     "word": "incessant",
     "definitions": [
       {
@@ -6283,6 +6780,7 @@
   },
   {
     "key": 497,
+    "group": 17,
     "word": "inclined",
     "definitions": [
       {
@@ -6295,6 +6793,7 @@
   },
   {
     "key": 498,
+    "group": 17,
     "word": "inveterate",
     "definitions": [
       {
@@ -6307,6 +6806,7 @@
   },
   {
     "key": 499,
+    "group": 17,
     "word": "miserly",
     "definitions": [
       {
@@ -6319,6 +6819,7 @@
   },
   {
     "key": 500,
+    "group": 17,
     "word": "patent",
     "definitions": [
       {
@@ -6331,6 +6832,7 @@
   },
   {
     "key": 501,
+    "group": 17,
     "word": "petulant",
     "definitions": [
       {
@@ -6343,6 +6845,7 @@
   },
   {
     "key": 502,
+    "group": 17,
     "word": "pithy",
     "definitions": [
       {
@@ -6355,6 +6858,7 @@
   },
   {
     "key": 503,
+    "group": 17,
     "word": "pliant",
     "definitions": [
       {
@@ -6367,6 +6871,7 @@
   },
   {
     "key": 504,
+    "group": 17,
     "word": "sanctimonious",
     "definitions": [
       {
@@ -6379,6 +6884,7 @@
   },
   {
     "key": 505,
+    "group": 17,
     "word": "sound",
     "definitions": [
       {
@@ -6391,6 +6897,7 @@
   },
   {
     "key": 506,
+    "group": 17,
     "word": "tarnish",
     "definitions": [
       {
@@ -6403,6 +6910,7 @@
   },
   {
     "key": 507,
+    "group": 17,
     "word": "tepid",
     "definitions": [
       {
@@ -6415,6 +6923,7 @@
   },
   {
     "key": 508,
+    "group": 17,
     "word": "upbraid",
     "definitions": [
       {
@@ -6427,6 +6936,7 @@
   },
   {
     "key": 509,
+    "group": 17,
     "word": "vexation",
     "definitions": [
       {
@@ -6439,6 +6949,7 @@
   },
   {
     "key": 510,
+    "group": 18,
     "word": "abet",
     "definitions": [
       {
@@ -6451,6 +6962,7 @@
   },
   {
     "key": 511,
+    "group": 18,
     "word": "accessible",
     "definitions": [
       {
@@ -6463,6 +6975,7 @@
   },
   {
     "key": 512,
+    "group": 18,
     "word": "acquisitive",
     "definitions": [
       {
@@ -6475,6 +6988,7 @@
   },
   {
     "key": 513,
+    "group": 18,
     "word": "amalgamate",
     "definitions": [
       {
@@ -6487,6 +7001,7 @@
   },
   {
     "key": 514,
+    "group": 18,
     "word": "attenuate",
     "definitions": [
       {
@@ -6499,6 +7014,7 @@
   },
   {
     "key": 515,
+    "group": 18,
     "word": "augment",
     "definitions": [
       {
@@ -6511,6 +7027,7 @@
   },
   {
     "key": 516,
+    "group": 18,
     "word": "aversion",
     "definitions": [
       {
@@ -6523,18 +7040,20 @@
   },
   {
     "key": 517,
+    "group": 18,
     "word": "blithe",
     "definitions": [
       {
         "part_of_speech": "adjective",
         "definition": "showing indifference",
         "sentence": "His <u>blithe</u> attitude towards missing deadlines was infuriating.",
-        "synonyms": ["heedless", "nonchalant", "blasé"]
+        "synonyms": ["heedless", "nonchalant", "blas\u00c3\u00a9"]
       }
     ]
   },
   {
     "key": 518,
+    "group": 18,
     "word": "contempt",
     "definitions": [
       {
@@ -6547,6 +7066,7 @@
   },
   {
     "key": 519,
+    "group": 18,
     "word": "dawdle",
     "definitions": [
       {
@@ -6559,6 +7079,7 @@
   },
   {
     "key": 520,
+    "group": 18,
     "word": "deflect",
     "definitions": [
       {
@@ -6571,6 +7092,7 @@
   },
   {
     "key": 521,
+    "group": 18,
     "word": "discount",
     "definitions": [
       {
@@ -6583,6 +7105,7 @@
   },
   {
     "key": 522,
+    "group": 18,
     "word": "dissident",
     "definitions": [
       {
@@ -6595,6 +7118,7 @@
   },
   {
     "key": 523,
+    "group": 18,
     "word": "efficacious",
     "definitions": [
       {
@@ -6607,6 +7131,7 @@
   },
   {
     "key": 524,
+    "group": 18,
     "word": "equitable",
     "definitions": [
       {
@@ -6619,6 +7144,7 @@
   },
   {
     "key": 525,
+    "group": 18,
     "word": "erratic",
     "definitions": [
       {
@@ -6631,6 +7157,7 @@
   },
   {
     "key": 526,
+    "group": 18,
     "word": "industrious",
     "definitions": [
       {
@@ -6643,6 +7170,7 @@
   },
   {
     "key": 527,
+    "group": 18,
     "word": "inform",
     "definitions": [
       {
@@ -6655,6 +7183,7 @@
   },
   {
     "key": 528,
+    "group": 18,
     "word": "irksome",
     "definitions": [
       {
@@ -6667,6 +7196,7 @@
   },
   {
     "key": 529,
+    "group": 18,
     "word": "manacle",
     "definitions": [
       {
@@ -6679,6 +7209,7 @@
   },
   {
     "key": 530,
+    "group": 18,
     "word": "modest",
     "definitions": [
       {
@@ -6697,6 +7228,7 @@
   },
   {
     "key": 531,
+    "group": 18,
     "word": "noxious",
     "definitions": [
       {
@@ -6709,6 +7241,7 @@
   },
   {
     "key": 532,
+    "group": 18,
     "word": "pernicious",
     "definitions": [
       {
@@ -6721,6 +7254,7 @@
   },
   {
     "key": 533,
+    "group": 18,
     "word": "predicament",
     "definitions": [
       {
@@ -6733,6 +7267,7 @@
   },
   {
     "key": 534,
+    "group": 18,
     "word": "proficient",
     "definitions": [
       {
@@ -6745,6 +7280,7 @@
   },
   {
     "key": 535,
+    "group": 18,
     "word": "prolix",
     "definitions": [
       {
@@ -6757,6 +7293,7 @@
   },
   {
     "key": 536,
+    "group": 18,
     "word": "scorn",
     "definitions": [
       {
@@ -6775,6 +7312,7 @@
   },
   {
     "key": 537,
+    "group": 18,
     "word": "subordinate",
     "definitions": [
       {
@@ -6799,6 +7337,7 @@
   },
   {
     "key": 538,
+    "group": 18,
     "word": "unseemly",
     "definitions": [
       {
@@ -6811,6 +7350,7 @@
   },
   {
     "key": 539,
+    "group": 18,
     "word": "veritable",
     "definitions": [
       {
@@ -6823,6 +7363,7 @@
   },
   {
     "key": 540,
+    "group": 19,
     "word": "acolyte",
     "definitions": [
       {
@@ -6835,6 +7376,7 @@
   },
   {
     "key": 541,
+    "group": 19,
     "word": "anoint",
     "definitions": [
       {
@@ -6847,6 +7389,7 @@
   },
   {
     "key": 542,
+    "group": 19,
     "word": "base",
     "definitions": [
       {
@@ -6859,6 +7402,7 @@
   },
   {
     "key": 543,
+    "group": 19,
     "word": "coercion",
     "definitions": [
       {
@@ -6871,6 +7415,7 @@
   },
   {
     "key": 544,
+    "group": 19,
     "word": "coin",
     "definitions": [
       {
@@ -6883,6 +7428,7 @@
   },
   {
     "key": 545,
+    "group": 19,
     "word": "cunning",
     "definitions": [
       {
@@ -6895,6 +7441,7 @@
   },
   {
     "key": 546,
+    "group": 19,
     "word": "discomfit",
     "definitions": [
       {
@@ -6907,6 +7454,7 @@
   },
   {
     "key": 547,
+    "group": 19,
     "word": "dissent",
     "definitions": [
       {
@@ -6925,6 +7473,7 @@
   },
   {
     "key": 548,
+    "group": 19,
     "word": "distill",
     "definitions": [
       {
@@ -6937,6 +7486,7 @@
   },
   {
     "key": 549,
+    "group": 19,
     "word": "dubious",
     "definitions": [
       {
@@ -6955,6 +7505,7 @@
   },
   {
     "key": 550,
+    "group": 19,
     "word": "ebullient",
     "definitions": [
       {
@@ -6967,6 +7518,7 @@
   },
   {
     "key": 551,
+    "group": 19,
     "word": "facetious",
     "definitions": [
       {
@@ -6979,6 +7531,7 @@
   },
   {
     "key": 552,
+    "group": 19,
     "word": "fallible",
     "definitions": [
       {
@@ -6991,6 +7544,7 @@
   },
   {
     "key": 553,
+    "group": 19,
     "word": "florid",
     "definitions": [
       {
@@ -7003,6 +7557,7 @@
   },
   {
     "key": 554,
+    "group": 19,
     "word": "gawky",
     "definitions": [
       {
@@ -7015,6 +7570,7 @@
   },
   {
     "key": 555,
+    "group": 19,
     "word": "inveigle",
     "definitions": [
       {
@@ -7027,6 +7583,7 @@
   },
   {
     "key": 556,
+    "group": 19,
     "word": "jettison",
     "definitions": [
       {
@@ -7039,6 +7596,7 @@
   },
   {
     "key": 557,
+    "group": 19,
     "word": "mendacity",
     "definitions": [
       {
@@ -7051,6 +7609,7 @@
   },
   {
     "key": 558,
+    "group": 19,
     "word": "munificent",
     "definitions": [
       {
@@ -7063,6 +7622,7 @@
   },
   {
     "key": 559,
+    "group": 19,
     "word": "naive",
     "definitions": [
       {
@@ -7075,6 +7635,7 @@
   },
   {
     "key": 560,
+    "group": 19,
     "word": "noble",
     "definitions": [
       {
@@ -7087,6 +7648,7 @@
   },
   {
     "key": 561,
+    "group": 19,
     "word": "parochial",
     "definitions": [
       {
@@ -7099,6 +7661,7 @@
   },
   {
     "key": 562,
+    "group": 19,
     "word": "pedestrian",
     "definitions": [
       {
@@ -7111,6 +7674,7 @@
   },
   {
     "key": 563,
+    "group": 19,
     "word": "prevaricate",
     "definitions": [
       {
@@ -7123,6 +7687,7 @@
   },
   {
     "key": 564,
+    "group": 19,
     "word": "prime",
     "definitions": [
       {
@@ -7141,6 +7706,7 @@
   },
   {
     "key": 565,
+    "group": 19,
     "word": "radical",
     "definitions": [
       {
@@ -7159,6 +7725,7 @@
   },
   {
     "key": 566,
+    "group": 19,
     "word": "recrudescent",
     "definitions": [
       {
@@ -7171,6 +7738,7 @@
   },
   {
     "key": 567,
+    "group": 19,
     "word": "temporal",
     "definitions": [
       {
@@ -7189,6 +7757,7 @@
   },
   {
     "key": 568,
+    "group": 19,
     "word": "transitory",
     "definitions": [
       {
@@ -7201,6 +7770,7 @@
   },
   {
     "key": 569,
+    "group": 19,
     "word": "viable",
     "definitions": [
       {
@@ -7213,6 +7783,7 @@
   },
   {
     "key": 570,
+    "group": 20,
     "word": "abreast",
     "definitions": [
       {
@@ -7225,6 +7796,7 @@
   },
   {
     "key": 571,
+    "group": 20,
     "word": "confound",
     "definitions": [
       {
@@ -7237,6 +7809,7 @@
   },
   {
     "key": 572,
+    "group": 20,
     "word": "digression",
     "definitions": [
       {
@@ -7249,6 +7822,7 @@
   },
   {
     "key": 573,
+    "group": 20,
     "word": "discrepancy",
     "definitions": [
       {
@@ -7261,6 +7835,7 @@
   },
   {
     "key": 574,
+    "group": 20,
     "word": "duplicitous",
     "definitions": [
       {
@@ -7273,6 +7848,7 @@
   },
   {
     "key": 575,
+    "group": 20,
     "word": "expedient",
     "definitions": [
       {
@@ -7285,6 +7861,7 @@
   },
   {
     "key": 576,
+    "group": 20,
     "word": "fabricate",
     "definitions": [
       {
@@ -7297,6 +7874,7 @@
   },
   {
     "key": 577,
+    "group": 20,
     "word": "glum",
     "definitions": [
       {
@@ -7309,6 +7887,7 @@
   },
   {
     "key": 578,
+    "group": 20,
     "word": "harbinger",
     "definitions": [
       {
@@ -7321,6 +7900,7 @@
   },
   {
     "key": 579,
+    "group": 20,
     "word": "intrinsic",
     "definitions": [
       {
@@ -7333,6 +7913,7 @@
   },
   {
     "key": 580,
+    "group": 20,
     "word": "largesse",
     "definitions": [
       {
@@ -7345,6 +7926,7 @@
   },
   {
     "key": 581,
+    "group": 20,
     "word": "libertine",
     "definitions": [
       {
@@ -7357,6 +7939,7 @@
   },
   {
     "key": 582,
+    "group": 20,
     "word": "malfeasance",
     "definitions": [
       {
@@ -7369,6 +7952,7 @@
   },
   {
     "key": 583,
+    "group": 20,
     "word": "manifest",
     "definitions": [
       {
@@ -7387,6 +7971,7 @@
   },
   {
     "key": 584,
+    "group": 20,
     "word": "minute",
     "definitions": [
       {
@@ -7399,6 +7984,7 @@
   },
   {
     "key": 585,
+    "group": 20,
     "word": "modish",
     "definitions": [
       {
@@ -7411,6 +7997,7 @@
   },
   {
     "key": 586,
+    "group": 20,
     "word": "nascent",
     "definitions": [
       {
@@ -7423,6 +8010,7 @@
   },
   {
     "key": 587,
+    "group": 20,
     "word": "perennial",
     "definitions": [
       {
@@ -7435,6 +8023,7 @@
   },
   {
     "key": 588,
+    "group": 20,
     "word": "pious",
     "definitions": [
       {
@@ -7453,6 +8042,7 @@
   },
   {
     "key": 589,
+    "group": 20,
     "word": "providential",
     "definitions": [
       {
@@ -7465,6 +8055,7 @@
   },
   {
     "key": 590,
+    "group": 20,
     "word": "prowess",
     "definitions": [
       {
@@ -7477,6 +8068,7 @@
   },
   {
     "key": 591,
+    "group": 20,
     "word": "schism",
     "definitions": [
       {
@@ -7489,6 +8081,7 @@
   },
   {
     "key": 592,
+    "group": 20,
     "word": "slander",
     "definitions": [
       {
@@ -7501,6 +8094,7 @@
   },
   {
     "key": 593,
+    "group": 20,
     "word": "stalwart",
     "definitions": [
       {
@@ -7513,6 +8107,7 @@
   },
   {
     "key": 594,
+    "group": 20,
     "word": "supplicate",
     "definitions": [
       {
@@ -7525,6 +8120,7 @@
   },
   {
     "key": 595,
+    "group": 20,
     "word": "terse",
     "definitions": [
       {
@@ -7537,6 +8133,7 @@
   },
   {
     "key": 596,
+    "group": 20,
     "word": "tirade",
     "definitions": [
       {
@@ -7549,6 +8146,7 @@
   },
   {
     "key": 597,
+    "group": 20,
     "word": "universal",
     "definitions": [
       {
@@ -7561,6 +8159,7 @@
   },
   {
     "key": 598,
+    "group": 20,
     "word": "vanquish",
     "definitions": [
       {
@@ -7573,6 +8172,7 @@
   },
   {
     "key": 599,
+    "group": 20,
     "word": "woeful",
     "definitions": [
       {
@@ -7591,6 +8191,7 @@
   },
   {
     "key": 600,
+    "group": 21,
     "word": "abject",
     "definitions": [
       {
@@ -7603,6 +8204,7 @@
   },
   {
     "key": 601,
+    "group": 21,
     "word": "amicable",
     "definitions": [
       {
@@ -7615,6 +8217,7 @@
   },
   {
     "key": 602,
+    "group": 21,
     "word": "animosity",
     "definitions": [
       {
@@ -7627,6 +8230,7 @@
   },
   {
     "key": 603,
+    "group": 21,
     "word": "aver",
     "definitions": [
       {
@@ -7639,6 +8243,7 @@
   },
   {
     "key": 604,
+    "group": 21,
     "word": "barrage",
     "definitions": [
       {
@@ -7651,6 +8256,7 @@
   },
   {
     "key": 605,
+    "group": 21,
     "word": "cathartic",
     "definitions": [
       {
@@ -7663,6 +8269,7 @@
   },
   {
     "key": 606,
+    "group": 21,
     "word": "decipher",
     "definitions": [
       {
@@ -7675,6 +8282,7 @@
   },
   {
     "key": 607,
+    "group": 21,
     "word": "delusion",
     "definitions": [
       {
@@ -7687,6 +8295,7 @@
   },
   {
     "key": 608,
+    "group": 21,
     "word": "dispense",
     "definitions": [
       {
@@ -7705,6 +8314,7 @@
   },
   {
     "key": 609,
+    "group": 21,
     "word": "eloquent",
     "definitions": [
       {
@@ -7717,6 +8327,7 @@
   },
   {
     "key": 610,
+    "group": 21,
     "word": "enthrall",
     "definitions": [
       {
@@ -7729,6 +8340,7 @@
   },
   {
     "key": 611,
+    "group": 21,
     "word": "eradicate",
     "definitions": [
       {
@@ -7741,6 +8353,7 @@
   },
   {
     "key": 612,
+    "group": 21,
     "word": "fledgling",
     "definitions": [
       {
@@ -7753,6 +8366,7 @@
   },
   {
     "key": 613,
+    "group": 21,
     "word": "fortitude",
     "definitions": [
       {
@@ -7765,6 +8379,7 @@
   },
   {
     "key": 614,
+    "group": 21,
     "word": "fortuitous",
     "definitions": [
       {
@@ -7777,6 +8392,7 @@
   },
   {
     "key": 615,
+    "group": 21,
     "word": "goad",
     "definitions": [
       {
@@ -7789,6 +8405,7 @@
   },
   {
     "key": 616,
+    "group": 21,
     "word": "imminent",
     "definitions": [
       {
@@ -7801,6 +8418,7 @@
   },
   {
     "key": 617,
+    "group": 21,
     "word": "incontrovertible",
     "definitions": [
       {
@@ -7813,6 +8431,7 @@
   },
   {
     "key": 618,
+    "group": 21,
     "word": "itinerant",
     "definitions": [
       {
@@ -7825,6 +8444,7 @@
   },
   {
     "key": 619,
+    "group": 21,
     "word": "magnanimous",
     "definitions": [
       {
@@ -7837,6 +8457,7 @@
   },
   {
     "key": 620,
+    "group": 21,
     "word": "meritorious",
     "definitions": [
       {
@@ -7849,6 +8470,7 @@
   },
   {
     "key": 621,
+    "group": 21,
     "word": "mutiny",
     "definitions": [
       {
@@ -7861,6 +8483,7 @@
   },
   {
     "key": 622,
+    "group": 21,
     "word": "paradoxical",
     "definitions": [
       {
@@ -7873,6 +8496,7 @@
   },
   {
     "key": 623,
+    "group": 21,
     "word": "perseverance",
     "definitions": [
       {
@@ -7885,6 +8509,7 @@
   },
   {
     "key": 624,
+    "group": 21,
     "word": "render",
     "definitions": [
       {
@@ -7903,6 +8528,7 @@
   },
   {
     "key": 625,
+    "group": 21,
     "word": "repertoire",
     "definitions": [
       {
@@ -7915,6 +8541,7 @@
   },
   {
     "key": 626,
+    "group": 21,
     "word": "resilient",
     "definitions": [
       {
@@ -7927,6 +8554,7 @@
   },
   {
     "key": 627,
+    "group": 21,
     "word": "resolute",
     "definitions": [
       {
@@ -7939,6 +8567,7 @@
   },
   {
     "key": 628,
+    "group": 21,
     "word": "supple",
     "definitions": [
       {
@@ -7951,6 +8580,7 @@
   },
   {
     "key": 629,
+    "group": 21,
     "word": "valor",
     "definitions": [
       {
@@ -7963,6 +8593,7 @@
   },
   {
     "key": 630,
+    "group": 22,
     "word": "arresting",
     "definitions": [
       {
@@ -7975,6 +8606,7 @@
   },
   {
     "key": 631,
+    "group": 22,
     "word": "chastise",
     "definitions": [
       {
@@ -7987,6 +8619,7 @@
   },
   {
     "key": 632,
+    "group": 22,
     "word": "cumbersome",
     "definitions": [
       {
@@ -7999,6 +8632,7 @@
   },
   {
     "key": 633,
+    "group": 22,
     "word": "economy",
     "definitions": [
       {
@@ -8011,6 +8645,7 @@
   },
   {
     "key": 634,
+    "group": 22,
     "word": "elementary",
     "definitions": [
       {
@@ -8023,6 +8658,7 @@
   },
   {
     "key": 635,
+    "group": 22,
     "word": "embellish",
     "definitions": [
       {
@@ -8041,6 +8677,7 @@
   },
   {
     "key": 636,
+    "group": 22,
     "word": "euphoric",
     "definitions": [
       {
@@ -8053,6 +8690,7 @@
   },
   {
     "key": 637,
+    "group": 22,
     "word": "exonerate",
     "definitions": [
       {
@@ -8065,6 +8703,7 @@
   },
   {
     "key": 638,
+    "group": 22,
     "word": "extrapolate",
     "definitions": [
       {
@@ -8077,6 +8716,7 @@
   },
   {
     "key": 639,
+    "group": 22,
     "word": "falter",
     "definitions": [
       {
@@ -8089,6 +8729,7 @@
   },
   {
     "key": 640,
+    "group": 22,
     "word": "fervent",
     "definitions": [
       {
@@ -8101,6 +8742,7 @@
   },
   {
     "key": 641,
+    "group": 22,
     "word": "foment",
     "definitions": [
       {
@@ -8113,6 +8755,7 @@
   },
   {
     "key": 642,
+    "group": 22,
     "word": "gaffe",
     "definitions": [
       {
@@ -8125,6 +8768,7 @@
   },
   {
     "key": 643,
+    "group": 22,
     "word": "heterodox",
     "definitions": [
       {
@@ -8137,6 +8781,7 @@
   },
   {
     "key": 644,
+    "group": 22,
     "word": "histrionic",
     "definitions": [
       {
@@ -8149,6 +8794,7 @@
   },
   {
     "key": 645,
+    "group": 22,
     "word": "implicit",
     "definitions": [
       {
@@ -8161,6 +8807,7 @@
   },
   {
     "key": 646,
+    "group": 22,
     "word": "inviolate",
     "definitions": [
       {
@@ -8173,6 +8820,7 @@
   },
   {
     "key": 647,
+    "group": 22,
     "word": "liability",
     "definitions": [
       {
@@ -8185,6 +8833,7 @@
   },
   {
     "key": 648,
+    "group": 22,
     "word": "obstinate",
     "definitions": [
       {
@@ -8197,6 +8846,7 @@
   },
   {
     "key": 649,
+    "group": 22,
     "word": "painstaking",
     "definitions": [
       {
@@ -8209,6 +8859,7 @@
   },
   {
     "key": 650,
+    "group": 22,
     "word": "phlegmatic",
     "definitions": [
       {
@@ -8221,6 +8872,7 @@
   },
   {
     "key": 651,
+    "group": 22,
     "word": "prodiguous",
     "definitions": [
       {
@@ -8233,6 +8885,7 @@
   },
   {
     "key": 652,
+    "group": 22,
     "word": "propensity",
     "definitions": [
       {
@@ -8245,6 +8898,7 @@
   },
   {
     "key": 653,
+    "group": 22,
     "word": "qualm",
     "definitions": [
       {
@@ -8257,6 +8911,7 @@
   },
   {
     "key": 654,
+    "group": 22,
     "word": "renege",
     "definitions": [
       {
@@ -8269,6 +8924,7 @@
   },
   {
     "key": 655,
+    "group": 22,
     "word": "stint",
     "definitions": [
       {
@@ -8281,6 +8937,7 @@
   },
   {
     "key": 656,
+    "group": 22,
     "word": "temper",
     "definitions": [
       {
@@ -8293,6 +8950,7 @@
   },
   {
     "key": 657,
+    "group": 22,
     "word": "tentative",
     "definitions": [
       {
@@ -8305,6 +8963,7 @@
   },
   {
     "key": 658,
+    "group": 22,
     "word": "unprecedented",
     "definitions": [
       {
@@ -8317,6 +8976,7 @@
   },
   {
     "key": 659,
+    "group": 22,
     "word": "vivacious",
     "definitions": [
       {
@@ -8329,6 +8989,7 @@
   },
   {
     "key": 660,
+    "group": 23,
     "word": "allusive",
     "definitions": [
       {
@@ -8341,6 +9002,7 @@
   },
   {
     "key": 661,
+    "group": 23,
     "word": "astute",
     "definitions": [
       {
@@ -8353,6 +9015,7 @@
   },
   {
     "key": 662,
+    "group": 23,
     "word": "commence",
     "definitions": [
       {
@@ -8365,6 +9028,7 @@
   },
   {
     "key": 663,
+    "group": 23,
     "word": "convalescent",
     "definitions": [
       {
@@ -8377,6 +9041,7 @@
   },
   {
     "key": 664,
+    "group": 23,
     "word": "curb",
     "definitions": [
       {
@@ -8389,6 +9054,7 @@
   },
   {
     "key": 665,
+    "group": 23,
     "word": "decry",
     "definitions": [
       {
@@ -8401,6 +9067,7 @@
   },
   {
     "key": 666,
+    "group": 23,
     "word": "duress",
     "definitions": [
       {
@@ -8413,6 +9080,7 @@
   },
   {
     "key": 667,
+    "group": 23,
     "word": "evoke",
     "definitions": [
       {
@@ -8425,6 +9093,7 @@
   },
   {
     "key": 668,
+    "group": 23,
     "word": "fawn",
     "definitions": [
       {
@@ -8437,6 +9106,7 @@
   },
   {
     "key": 669,
+    "group": 23,
     "word": "fret",
     "definitions": [
       {
@@ -8449,6 +9119,7 @@
   },
   {
     "key": 670,
+    "group": 23,
     "word": "glib",
     "definitions": [
       {
@@ -8461,6 +9132,7 @@
   },
   {
     "key": 671,
+    "group": 23,
     "word": "headstrong",
     "definitions": [
       {
@@ -8473,6 +9145,7 @@
   },
   {
     "key": 672,
+    "group": 23,
     "word": "intermittent",
     "definitions": [
       {
@@ -8485,6 +9158,7 @@
   },
   {
     "key": 673,
+    "group": 23,
     "word": "ire",
     "definitions": [
       {
@@ -8497,6 +9171,7 @@
   },
   {
     "key": 674,
+    "group": 23,
     "word": "languid",
     "definitions": [
       {
@@ -8515,6 +9190,7 @@
   },
   {
     "key": 675,
+    "group": 23,
     "word": "lull",
     "definitions": [
       {
@@ -8533,6 +9209,7 @@
   },
   {
     "key": 676,
+    "group": 23,
     "word": "mettlesome",
     "definitions": [
       {
@@ -8545,6 +9222,7 @@
   },
   {
     "key": 677,
+    "group": 23,
     "word": "mollify",
     "definitions": [
       {
@@ -8557,6 +9235,7 @@
   },
   {
     "key": 678,
+    "group": 23,
     "word": "neutralize",
     "definitions": [
       {
@@ -8569,6 +9248,7 @@
   },
   {
     "key": 679,
+    "group": 23,
     "word": "nonplussed",
     "definitions": [
       {
@@ -8581,6 +9261,7 @@
   },
   {
     "key": 680,
+    "group": 23,
     "word": "precipitous",
     "definitions": [
       {
@@ -8599,6 +9280,7 @@
   },
   {
     "key": 681,
+    "group": 23,
     "word": "pretentious",
     "definitions": [
       {
@@ -8611,6 +9293,7 @@
   },
   {
     "key": 682,
+    "group": 23,
     "word": "profound",
     "definitions": [
       {
@@ -8629,6 +9312,7 @@
   },
   {
     "key": 683,
+    "group": 23,
     "word": "propagate",
     "definitions": [
       {
@@ -8641,6 +9325,7 @@
   },
   {
     "key": 684,
+    "group": 23,
     "word": "recourse",
     "definitions": [
       {
@@ -8653,6 +9338,7 @@
   },
   {
     "key": 685,
+    "group": 23,
     "word": "refute",
     "definitions": [
       {
@@ -8665,6 +9351,7 @@
   },
   {
     "key": 686,
+    "group": 23,
     "word": "regress",
     "definitions": [
       {
@@ -8677,6 +9364,7 @@
   },
   {
     "key": 687,
+    "group": 23,
     "word": "repercussion",
     "definitions": [
       {
@@ -8689,6 +9377,7 @@
   },
   {
     "key": 688,
+    "group": 23,
     "word": "replenish",
     "definitions": [
       {
@@ -8701,6 +9390,7 @@
   },
   {
     "key": 689,
+    "group": 23,
     "word": "vigilant",
     "definitions": [
       {
@@ -8713,6 +9403,7 @@
   },
   {
     "key": 690,
+    "group": 24,
     "word": "assail",
     "definitions": [
       {
@@ -8725,6 +9416,7 @@
   },
   {
     "key": 691,
+    "group": 24,
     "word": "benevolent",
     "definitions": [
       {
@@ -8737,6 +9429,7 @@
   },
   {
     "key": 692,
+    "group": 24,
     "word": "berate",
     "definitions": [
       {
@@ -8749,6 +9442,7 @@
   },
   {
     "key": 693,
+    "group": 24,
     "word": "buoyant",
     "definitions": [
       {
@@ -8761,6 +9455,7 @@
   },
   {
     "key": 694,
+    "group": 24,
     "word": "buttress",
     "definitions": [
       {
@@ -8773,6 +9468,7 @@
   },
   {
     "key": 695,
+    "group": 24,
     "word": "condone",
     "definitions": [
       {
@@ -8785,6 +9481,7 @@
   },
   {
     "key": 696,
+    "group": 24,
     "word": "contravene",
     "definitions": [
       {
@@ -8797,6 +9494,7 @@
   },
   {
     "key": 697,
+    "group": 24,
     "word": "denounce",
     "definitions": [
       {
@@ -8809,6 +9507,7 @@
   },
   {
     "key": 698,
+    "group": 24,
     "word": "despotic",
     "definitions": [
       {
@@ -8821,6 +9520,7 @@
   },
   {
     "key": 699,
+    "group": 24,
     "word": "deviate",
     "definitions": [
       {
@@ -8833,6 +9533,7 @@
   },
   {
     "key": 700,
+    "group": 24,
     "word": "disinterested",
     "definitions": [
       {
@@ -8845,6 +9546,7 @@
   },
   {
     "key": 701,
+    "group": 24,
     "word": "escalate",
     "definitions": [
       {
@@ -8857,6 +9559,7 @@
   },
   {
     "key": 702,
+    "group": 24,
     "word": "exorcise",
     "definitions": [
       {
@@ -8869,6 +9572,7 @@
   },
   {
     "key": 703,
+    "group": 24,
     "word": "finicky",
     "definitions": [
       {
@@ -8881,6 +9585,7 @@
   },
   {
     "key": 704,
+    "group": 24,
     "word": "foil",
     "definitions": [
       {
@@ -8893,6 +9598,7 @@
   },
   {
     "key": 705,
+    "group": 24,
     "word": "intertwined",
     "definitions": [
       {
@@ -8905,6 +9611,7 @@
   },
   {
     "key": 706,
+    "group": 24,
     "word": "inundate",
     "definitions": [
       {
@@ -8917,6 +9624,7 @@
   },
   {
     "key": 707,
+    "group": 24,
     "word": "ironclad",
     "definitions": [
       {
@@ -8929,6 +9637,7 @@
   },
   {
     "key": 708,
+    "group": 24,
     "word": "jeopardize",
     "definitions": [
       {
@@ -8941,6 +9650,7 @@
   },
   {
     "key": 709,
+    "group": 24,
     "word": "mercurial",
     "definitions": [
       {
@@ -8953,6 +9663,7 @@
   },
   {
     "key": 710,
+    "group": 24,
     "word": "oblivious",
     "definitions": [
       {
@@ -8965,6 +9676,7 @@
   },
   {
     "key": 711,
+    "group": 24,
     "word": "perpetrate",
     "definitions": [
       {
@@ -8977,6 +9689,7 @@
   },
   {
     "key": 712,
+    "group": 24,
     "word": "plaintive",
     "definitions": [
       {
@@ -8989,6 +9702,7 @@
   },
   {
     "key": 713,
+    "group": 24,
     "word": "poignant",
     "definitions": [
       {
@@ -9001,6 +9715,7 @@
   },
   {
     "key": 714,
+    "group": 24,
     "word": "quiescent",
     "definitions": [
       {
@@ -9013,6 +9728,7 @@
   },
   {
     "key": 715,
+    "group": 24,
     "word": "reiterate",
     "definitions": [
       {
@@ -9025,6 +9741,7 @@
   },
   {
     "key": 716,
+    "group": 24,
     "word": "subside",
     "definitions": [
       {
@@ -9037,6 +9754,7 @@
   },
   {
     "key": 717,
+    "group": 24,
     "word": "subsume",
     "definitions": [
       {
@@ -9049,6 +9767,7 @@
   },
   {
     "key": 718,
+    "group": 24,
     "word": "surmount",
     "definitions": [
       {
@@ -9061,6 +9780,7 @@
   },
   {
     "key": 719,
+    "group": 24,
     "word": "tangential",
     "definitions": [
       {
@@ -9073,6 +9793,7 @@
   },
   {
     "key": 720,
+    "group": 25,
     "word": "adept",
     "definitions": [
       {
@@ -9085,6 +9806,7 @@
   },
   {
     "key": 721,
+    "group": 25,
     "word": "adverse",
     "definitions": [
       {
@@ -9097,6 +9819,7 @@
   },
   {
     "key": 722,
+    "group": 25,
     "word": "appropriate",
     "definitions": [
       {
@@ -9115,6 +9838,7 @@
   },
   {
     "key": 723,
+    "group": 25,
     "word": "archetype",
     "definitions": [
       {
@@ -9127,6 +9851,7 @@
   },
   {
     "key": 724,
+    "group": 25,
     "word": "articulate",
     "definitions": [
       {
@@ -9139,6 +9864,7 @@
   },
   {
     "key": 725,
+    "group": 25,
     "word": "auspicious",
     "definitions": [
       {
@@ -9151,6 +9877,7 @@
   },
   {
     "key": 726,
+    "group": 25,
     "word": "bereft",
     "definitions": [
       {
@@ -9163,6 +9890,7 @@
   },
   {
     "key": 727,
+    "group": 25,
     "word": "captious",
     "definitions": [
       {
@@ -9175,6 +9903,7 @@
   },
   {
     "key": 728,
+    "group": 25,
     "word": "conclusive",
     "definitions": [
       {
@@ -9187,6 +9916,7 @@
   },
   {
     "key": 729,
+    "group": 25,
     "word": "conspire",
     "definitions": [
       {
@@ -9199,6 +9929,7 @@
   },
   {
     "key": 730,
+    "group": 25,
     "word": "delineate",
     "definitions": [
       {
@@ -9211,6 +9942,7 @@
   },
   {
     "key": 731,
+    "group": 25,
     "word": "disentangle",
     "definitions": [
       {
@@ -9223,6 +9955,7 @@
   },
   {
     "key": 732,
+    "group": 25,
     "word": "exhort",
     "definitions": [
       {
@@ -9235,6 +9968,7 @@
   },
   {
     "key": 733,
+    "group": 25,
     "word": "frailty",
     "definitions": [
       {
@@ -9247,6 +9981,7 @@
   },
   {
     "key": 734,
+    "group": 25,
     "word": "grievance",
     "definitions": [
       {
@@ -9259,6 +9994,7 @@
   },
   {
     "key": 735,
+    "group": 25,
     "word": "harangue",
     "definitions": [
       {
@@ -9271,6 +10007,7 @@
   },
   {
     "key": 736,
+    "group": 25,
     "word": "ploy",
     "definitions": [
       {
@@ -9283,6 +10020,7 @@
   },
   {
     "key": 737,
+    "group": 25,
     "word": "poise",
     "definitions": [
       {
@@ -9295,6 +10033,7 @@
   },
   {
     "key": 738,
+    "group": 25,
     "word": "pomposity",
     "definitions": [
       {
@@ -9307,6 +10046,7 @@
   },
   {
     "key": 739,
+    "group": 25,
     "word": "proxy",
     "definitions": [
       {
@@ -9319,6 +10059,7 @@
   },
   {
     "key": 740,
+    "group": 25,
     "word": "relent",
     "definitions": [
       {
@@ -9337,6 +10078,7 @@
   },
   {
     "key": 741,
+    "group": 25,
     "word": "rhetoric",
     "definitions": [
       {
@@ -9349,6 +10091,7 @@
   },
   {
     "key": 742,
+    "group": 25,
     "word": "rigor",
     "definitions": [
       {
@@ -9361,6 +10104,7 @@
   },
   {
     "key": 743,
+    "group": 25,
     "word": "sparse",
     "definitions": [
       {
@@ -9373,6 +10117,7 @@
   },
   {
     "key": 744,
+    "group": 25,
     "word": "steadfast",
     "definitions": [
       {
@@ -9385,6 +10130,7 @@
   },
   {
     "key": 745,
+    "group": 25,
     "word": "suspect",
     "definitions": [
       {
@@ -9397,6 +10143,7 @@
   },
   {
     "key": 746,
+    "group": 25,
     "word": "tedious",
     "definitions": [
       {
@@ -9409,6 +10156,7 @@
   },
   {
     "key": 747,
+    "group": 25,
     "word": "vitality",
     "definitions": [
       {
@@ -9421,6 +10169,7 @@
   },
   {
     "key": 748,
+    "group": 25,
     "word": "whimsical",
     "definitions": [
       {
@@ -9439,6 +10188,7 @@
   },
   {
     "key": 749,
+    "group": 25,
     "word": "yield",
     "definitions": [
       {
@@ -9457,6 +10207,7 @@
   },
   {
     "key": 750,
+    "group": 26,
     "word": "apprehension",
     "definitions": [
       {
@@ -9469,6 +10220,7 @@
   },
   {
     "key": 751,
+    "group": 26,
     "word": "ardent",
     "definitions": [
       {
@@ -9481,6 +10233,7 @@
   },
   {
     "key": 752,
+    "group": 26,
     "word": "axiomatic",
     "definitions": [
       {
@@ -9493,6 +10246,7 @@
   },
   {
     "key": 753,
+    "group": 26,
     "word": "cease",
     "definitions": [
       {
@@ -9505,6 +10259,7 @@
   },
   {
     "key": 754,
+    "group": 26,
     "word": "conducive",
     "definitions": [
       {
@@ -9517,6 +10272,7 @@
   },
   {
     "key": 755,
+    "group": 26,
     "word": "corporeal",
     "definitions": [
       {
@@ -9529,6 +10285,7 @@
   },
   {
     "key": 756,
+    "group": 26,
     "word": "doctrinaire",
     "definitions": [
       {
@@ -9541,6 +10298,7 @@
   },
   {
     "key": 757,
+    "group": 26,
     "word": "eclectic",
     "definitions": [
       {
@@ -9553,6 +10311,7 @@
   },
   {
     "key": 758,
+    "group": 26,
     "word": "equanimity",
     "definitions": [
       {
@@ -9565,6 +10324,7 @@
   },
   {
     "key": 759,
+    "group": 26,
     "word": "exorbitant",
     "definitions": [
       {
@@ -9577,6 +10337,7 @@
   },
   {
     "key": 760,
+    "group": 26,
     "word": "fickle",
     "definitions": [
       {
@@ -9589,6 +10350,7 @@
   },
   {
     "key": 761,
+    "group": 26,
     "word": "figurative",
     "definitions": [
       {
@@ -9601,6 +10363,7 @@
   },
   {
     "key": 762,
+    "group": 26,
     "word": "flustered",
     "definitions": [
       {
@@ -9613,6 +10376,7 @@
   },
   {
     "key": 763,
+    "group": 26,
     "word": "gullible",
     "definitions": [
       {
@@ -9625,6 +10389,7 @@
   },
   {
     "key": 764,
+    "group": 26,
     "word": "idiosyncratic",
     "definitions": [
       {
@@ -9637,6 +10402,7 @@
   },
   {
     "key": 765,
+    "group": 26,
     "word": "incidental",
     "definitions": [
       {
@@ -9649,6 +10415,7 @@
   },
   {
     "key": 766,
+    "group": 26,
     "word": "ingrained",
     "definitions": [
       {
@@ -9661,6 +10428,7 @@
   },
   {
     "key": 767,
+    "group": 26,
     "word": "insolent",
     "definitions": [
       {
@@ -9673,6 +10441,7 @@
   },
   {
     "key": 768,
+    "group": 26,
     "word": "lampoon",
     "definitions": [
       {
@@ -9685,6 +10454,7 @@
   },
   {
     "key": 769,
+    "group": 26,
     "word": "lavish",
     "definitions": [
       {
@@ -9703,6 +10473,7 @@
   },
   {
     "key": 770,
+    "group": 26,
     "word": "lugubrious",
     "definitions": [
       {
@@ -9715,6 +10486,7 @@
   },
   {
     "key": 771,
+    "group": 26,
     "word": "macabre",
     "definitions": [
       {
@@ -9727,6 +10499,7 @@
   },
   {
     "key": 772,
+    "group": 26,
     "word": "morose",
     "definitions": [
       {
@@ -9739,6 +10512,7 @@
   },
   {
     "key": 773,
+    "group": 26,
     "word": "officious",
     "definitions": [
       {
@@ -9751,6 +10525,7 @@
   },
   {
     "key": 774,
+    "group": 26,
     "word": "ramification",
     "definitions": [
       {
@@ -9763,6 +10538,7 @@
   },
   {
     "key": 775,
+    "group": 26,
     "word": "serene",
     "definitions": [
       {
@@ -9775,6 +10551,7 @@
   },
   {
     "key": 776,
+    "group": 26,
     "word": "supplant",
     "definitions": [
       {
@@ -9787,6 +10564,7 @@
   },
   {
     "key": 777,
+    "group": 26,
     "word": "tacit",
     "definitions": [
       {
@@ -9799,6 +10577,7 @@
   },
   {
     "key": 778,
+    "group": 26,
     "word": "transcend",
     "definitions": [
       {
@@ -9811,6 +10590,7 @@
   },
   {
     "key": 779,
+    "group": 26,
     "word": "treatise",
     "definitions": [
       {
@@ -9823,6 +10603,7 @@
   },
   {
     "key": 780,
+    "group": 27,
     "word": "antagonize",
     "definitions": [
       {
@@ -9835,6 +10616,7 @@
   },
   {
     "key": 781,
+    "group": 27,
     "word": "barren",
     "definitions": [
       {
@@ -9847,6 +10629,7 @@
   },
   {
     "key": 782,
+    "group": 27,
     "word": "bombastic",
     "definitions": [
       {
@@ -9859,6 +10642,7 @@
   },
   {
     "key": 783,
+    "group": 27,
     "word": "cajole",
     "definitions": [
       {
@@ -9871,6 +10655,7 @@
   },
   {
     "key": 784,
+    "group": 27,
     "word": "chary",
     "definitions": [
       {
@@ -9883,6 +10668,7 @@
   },
   {
     "key": 785,
+    "group": 27,
     "word": "curmudgeon",
     "definitions": [
       {
@@ -9895,6 +10681,7 @@
   },
   {
     "key": 786,
+    "group": 27,
     "word": "dirge",
     "definitions": [
       {
@@ -9907,6 +10694,7 @@
   },
   {
     "key": 787,
+    "group": 27,
     "word": "estimable",
     "definitions": [
       {
@@ -9919,6 +10707,7 @@
   },
   {
     "key": 788,
+    "group": 27,
     "word": "euphemism",
     "definitions": [
       {
@@ -9931,6 +10720,7 @@
   },
   {
     "key": 789,
+    "group": 27,
     "word": "excoriate",
     "definitions": [
       {
@@ -9943,6 +10733,7 @@
   },
   {
     "key": 790,
+    "group": 27,
     "word": "exigent",
     "definitions": [
       {
@@ -9955,6 +10746,7 @@
   },
   {
     "key": 791,
+    "group": 27,
     "word": "haughty",
     "definitions": [
       {
@@ -9967,6 +10759,7 @@
   },
   {
     "key": 792,
+    "group": 27,
     "word": "heady",
     "definitions": [
       {
@@ -9979,6 +10772,7 @@
   },
   {
     "key": 793,
+    "group": 27,
     "word": "imperturbable",
     "definitions": [
       {
@@ -9991,6 +10785,7 @@
   },
   {
     "key": 794,
+    "group": 27,
     "word": "implacable",
     "definitions": [
       {
@@ -10003,6 +10798,7 @@
   },
   {
     "key": 795,
+    "group": 27,
     "word": "lambaste",
     "definitions": [
       {
@@ -10015,6 +10811,7 @@
   },
   {
     "key": 796,
+    "group": 27,
     "word": "miscreant",
     "definitions": [
       {
@@ -10027,6 +10824,7 @@
   },
   {
     "key": 797,
+    "group": 27,
     "word": "peccadillo",
     "definitions": [
       {
@@ -10039,6 +10837,7 @@
   },
   {
     "key": 798,
+    "group": 27,
     "word": "philistine",
     "definitions": [
       {
@@ -10051,6 +10850,7 @@
   },
   {
     "key": 799,
+    "group": 27,
     "word": "relegate",
     "definitions": [
       {
@@ -10063,6 +10863,7 @@
   },
   {
     "key": 800,
+    "group": 27,
     "word": "repugnant",
     "definitions": [
       {
@@ -10075,6 +10876,7 @@
   },
   {
     "key": 801,
+    "group": 27,
     "word": "sentimental",
     "definitions": [
       {
@@ -10087,6 +10889,7 @@
   },
   {
     "key": 802,
+    "group": 27,
     "word": "squander",
     "definitions": [
       {
@@ -10099,6 +10902,7 @@
   },
   {
     "key": 803,
+    "group": 27,
     "word": "swindle",
     "definitions": [
       {
@@ -10111,6 +10915,7 @@
   },
   {
     "key": 804,
+    "group": 27,
     "word": "tangible",
     "definitions": [
       {
@@ -10123,6 +10928,7 @@
   },
   {
     "key": 805,
+    "group": 27,
     "word": "turpitude",
     "definitions": [
       {
@@ -10135,6 +10941,7 @@
   },
   {
     "key": 806,
+    "group": 27,
     "word": "unalloyed",
     "definitions": [
       {
@@ -10147,6 +10954,7 @@
   },
   {
     "key": 807,
+    "group": 27,
     "word": "undercut",
     "definitions": [
       {
@@ -10159,6 +10967,7 @@
   },
   {
     "key": 808,
+    "group": 27,
     "word": "wheedle",
     "definitions": [
       {
@@ -10171,6 +10980,7 @@
   },
   {
     "key": 809,
+    "group": 27,
     "word": "xenophobic",
     "definitions": [
       {
@@ -10183,6 +10993,7 @@
   },
   {
     "key": 810,
+    "group": 28,
     "word": "abeyance",
     "definitions": [
       {
@@ -10195,6 +11006,7 @@
   },
   {
     "key": 811,
+    "group": 28,
     "word": "abstract",
     "definitions": [
       {
@@ -10213,6 +11025,7 @@
   },
   {
     "key": 812,
+    "group": 28,
     "word": "affront",
     "definitions": [
       {
@@ -10225,6 +11038,7 @@
   },
   {
     "key": 813,
+    "group": 28,
     "word": "agitate",
     "definitions": [
       {
@@ -10237,6 +11051,7 @@
   },
   {
     "key": 814,
+    "group": 28,
     "word": "august",
     "definitions": [
       {
@@ -10249,6 +11064,7 @@
   },
   {
     "key": 815,
+    "group": 28,
     "word": "burnish",
     "definitions": [
       {
@@ -10261,6 +11077,7 @@
   },
   {
     "key": 816,
+    "group": 28,
     "word": "coy",
     "definitions": [
       {
@@ -10273,6 +11090,7 @@
   },
   {
     "key": 817,
+    "group": 28,
     "word": "deprecate",
     "definitions": [
       {
@@ -10285,6 +11103,7 @@
   },
   {
     "key": 818,
+    "group": 28,
     "word": "disdain",
     "definitions": [
       {
@@ -10297,6 +11116,7 @@
   },
   {
     "key": 819,
+    "group": 28,
     "word": "disperse",
     "definitions": [
       {
@@ -10309,6 +11129,7 @@
   },
   {
     "key": 820,
+    "group": 28,
     "word": "distend",
     "definitions": [
       {
@@ -10321,6 +11142,7 @@
   },
   {
     "key": 821,
+    "group": 28,
     "word": "endemic",
     "definitions": [
       {
@@ -10333,6 +11155,7 @@
   },
   {
     "key": 822,
+    "group": 28,
     "word": "enmity",
     "definitions": [
       {
@@ -10345,6 +11168,7 @@
   },
   {
     "key": 823,
+    "group": 28,
     "word": "gauche",
     "definitions": [
       {
@@ -10357,6 +11181,7 @@
   },
   {
     "key": 824,
+    "group": 28,
     "word": "hysterical",
     "definitions": [
       {
@@ -10369,6 +11194,7 @@
   },
   {
     "key": 825,
+    "group": 28,
     "word": "impudent",
     "definitions": [
       {
@@ -10381,6 +11207,7 @@
   },
   {
     "key": 826,
+    "group": 28,
     "word": "inchoate",
     "definitions": [
       {
@@ -10393,6 +11220,7 @@
   },
   {
     "key": 827,
+    "group": 28,
     "word": "penchant",
     "definitions": [
       {
@@ -10405,6 +11233,7 @@
   },
   {
     "key": 828,
+    "group": 28,
     "word": "quandary",
     "definitions": [
       {
@@ -10417,6 +11246,7 @@
   },
   {
     "key": 829,
+    "group": 28,
     "word": "quarantine",
     "definitions": [
       {
@@ -10429,6 +11259,7 @@
   },
   {
     "key": 830,
+    "group": 28,
     "word": "quash",
     "definitions": [
       {
@@ -10441,6 +11272,7 @@
   },
   {
     "key": 831,
+    "group": 28,
     "word": "quibble",
     "definitions": [
       {
@@ -10453,6 +11285,7 @@
   },
   {
     "key": 832,
+    "group": 28,
     "word": "ravage",
     "definitions": [
       {
@@ -10465,6 +11298,7 @@
   },
   {
     "key": 833,
+    "group": 28,
     "word": "recant",
     "definitions": [
       {
@@ -10477,6 +11311,7 @@
   },
   {
     "key": 834,
+    "group": 28,
     "word": "redoubtable",
     "definitions": [
       {
@@ -10489,6 +11324,7 @@
   },
   {
     "key": 835,
+    "group": 28,
     "word": "retiring",
     "definitions": [
       {
@@ -10501,6 +11337,7 @@
   },
   {
     "key": 836,
+    "group": 28,
     "word": "shrill",
     "definitions": [
       {
@@ -10513,6 +11350,7 @@
   },
   {
     "key": 837,
+    "group": 28,
     "word": "sophistry",
     "definitions": [
       {
@@ -10525,6 +11363,7 @@
   },
   {
     "key": 838,
+    "group": 28,
     "word": "substantiate",
     "definitions": [
       {
@@ -10537,6 +11376,7 @@
   },
   {
     "key": 839,
+    "group": 28,
     "word": "wily",
     "definitions": [
       {
@@ -10549,6 +11389,7 @@
   },
   {
     "key": 840,
+    "group": 29,
     "word": "abscond",
     "definitions": [
       {
@@ -10561,6 +11402,7 @@
   },
   {
     "key": 841,
+    "group": 29,
     "word": "apogee",
     "definitions": [
       {
@@ -10573,6 +11415,7 @@
   },
   {
     "key": 842,
+    "group": 29,
     "word": "aspersion",
     "definitions": [
       {
@@ -10585,6 +11428,7 @@
   },
   {
     "key": 843,
+    "group": 29,
     "word": "bawdy",
     "definitions": [
       {
@@ -10597,6 +11441,7 @@
   },
   {
     "key": 844,
+    "group": 29,
     "word": "chagrin",
     "definitions": [
       {
@@ -10609,6 +11454,7 @@
   },
   {
     "key": 845,
+    "group": 29,
     "word": "collude",
     "definitions": [
       {
@@ -10621,6 +11467,7 @@
   },
   {
     "key": 846,
+    "group": 29,
     "word": "commiserate",
     "definitions": [
       {
@@ -10633,6 +11480,7 @@
   },
   {
     "key": 847,
+    "group": 29,
     "word": "conflagration",
     "definitions": [
       {
@@ -10645,6 +11493,7 @@
   },
   {
     "key": 848,
+    "group": 29,
     "word": "contretemps",
     "definitions": [
       {
@@ -10657,6 +11506,7 @@
   },
   {
     "key": 849,
+    "group": 29,
     "word": "conviction",
     "definitions": [
       {
@@ -10669,6 +11519,7 @@
   },
   {
     "key": 850,
+    "group": 29,
     "word": "croon",
     "definitions": [
       {
@@ -10681,6 +11532,7 @@
   },
   {
     "key": 851,
+    "group": 29,
     "word": "depose",
     "definitions": [
       {
@@ -10693,6 +11545,7 @@
   },
   {
     "key": 852,
+    "group": 29,
     "word": "detente",
     "definitions": [
       {
@@ -10705,6 +11558,7 @@
   },
   {
     "key": 853,
+    "group": 29,
     "word": "dowdy",
     "definitions": [
       {
@@ -10717,6 +11571,7 @@
   },
   {
     "key": 854,
+    "group": 29,
     "word": "echelon",
     "definitions": [
       {
@@ -10729,6 +11584,7 @@
   },
   {
     "key": 855,
+    "group": 29,
     "word": "ennui",
     "definitions": [
       {
@@ -10741,6 +11597,7 @@
   },
   {
     "key": 856,
+    "group": 29,
     "word": "expatiate",
     "definitions": [
       {
@@ -10753,6 +11610,7 @@
   },
   {
     "key": 857,
+    "group": 29,
     "word": "fraught",
     "definitions": [
       {
@@ -10765,6 +11623,7 @@
   },
   {
     "key": 858,
+    "group": 29,
     "word": "fulcrum",
     "definitions": [
       {
@@ -10777,6 +11636,7 @@
   },
   {
     "key": 859,
+    "group": 29,
     "word": "imbroglio",
     "definitions": [
       {
@@ -10789,6 +11649,7 @@
   },
   {
     "key": 860,
+    "group": 29,
     "word": "jocund",
     "definitions": [
       {
@@ -10801,6 +11662,7 @@
   },
   {
     "key": 861,
+    "group": 29,
     "word": "languish",
     "definitions": [
       {
@@ -10819,6 +11681,7 @@
   },
   {
     "key": 862,
+    "group": 29,
     "word": "nadir",
     "definitions": [
       {
@@ -10831,6 +11694,7 @@
   },
   {
     "key": 863,
+    "group": 29,
     "word": "nimble",
     "definitions": [
       {
@@ -10843,6 +11707,7 @@
   },
   {
     "key": 864,
+    "group": 29,
     "word": "ominous",
     "definitions": [
       {
@@ -10855,6 +11720,7 @@
   },
   {
     "key": 865,
+    "group": 29,
     "word": "outlandish",
     "definitions": [
       {
@@ -10867,6 +11733,7 @@
   },
   {
     "key": 866,
+    "group": 29,
     "word": "propitious",
     "definitions": [
       {
@@ -10879,6 +11746,7 @@
   },
   {
     "key": 867,
+    "group": 29,
     "word": "prurient",
     "definitions": [
       {
@@ -10891,6 +11759,7 @@
   },
   {
     "key": 868,
+    "group": 29,
     "word": "sadistic",
     "definitions": [
       {
@@ -10903,6 +11772,7 @@
   },
   {
     "key": 869,
+    "group": 29,
     "word": "zenith",
     "definitions": [
       {
@@ -10915,6 +11785,7 @@
   },
   {
     "key": 870,
+    "group": 30,
     "word": "aberrant",
     "definitions": [
       {
@@ -10927,6 +11798,7 @@
   },
   {
     "key": 871,
+    "group": 30,
     "word": "abide",
     "definitions": [
       {
@@ -10939,6 +11811,7 @@
   },
   {
     "key": 872,
+    "group": 30,
     "word": "bravado",
     "definitions": [
       {
@@ -10951,6 +11824,7 @@
   },
   {
     "key": 873,
+    "group": 30,
     "word": "callow",
     "definitions": [
       {
@@ -10963,6 +11837,7 @@
   },
   {
     "key": 874,
+    "group": 30,
     "word": "capitulate",
     "definitions": [
       {
@@ -10975,6 +11850,7 @@
   },
   {
     "key": 875,
+    "group": 30,
     "word": "cogitate",
     "definitions": [
       {
@@ -10987,6 +11863,7 @@
   },
   {
     "key": 876,
+    "group": 30,
     "word": "deportment",
     "definitions": [
       {
@@ -10999,6 +11876,7 @@
   },
   {
     "key": 877,
+    "group": 30,
     "word": "extemporize",
     "definitions": [
       {
@@ -11011,6 +11889,7 @@
   },
   {
     "key": 878,
+    "group": 30,
     "word": "factious",
     "definitions": [
       {
@@ -11023,6 +11902,7 @@
   },
   {
     "key": 879,
+    "group": 30,
     "word": "fallow",
     "definitions": [
       {
@@ -11041,6 +11921,7 @@
   },
   {
     "key": 880,
+    "group": 30,
     "word": "feint",
     "definitions": [
       {
@@ -11053,6 +11934,7 @@
   },
   {
     "key": 881,
+    "group": 30,
     "word": "flagrant",
     "definitions": [
       {
@@ -11065,6 +11947,7 @@
   },
   {
     "key": 882,
+    "group": 30,
     "word": "gratuitous",
     "definitions": [
       {
@@ -11077,6 +11960,7 @@
   },
   {
     "key": 883,
+    "group": 30,
     "word": "grovel",
     "definitions": [
       {
@@ -11089,6 +11973,7 @@
   },
   {
     "key": 884,
+    "group": 30,
     "word": "indecorous",
     "definitions": [
       {
@@ -11101,6 +11986,7 @@
   },
   {
     "key": 885,
+    "group": 30,
     "word": "intrigue",
     "definitions": [
       {
@@ -11119,6 +12005,7 @@
   },
   {
     "key": 886,
+    "group": 30,
     "word": "nominal",
     "definitions": [
       {
@@ -11137,6 +12024,7 @@
   },
   {
     "key": 887,
+    "group": 30,
     "word": "obdurate",
     "definitions": [
       {
@@ -11149,6 +12037,7 @@
   },
   {
     "key": 888,
+    "group": 30,
     "word": "obstreperous",
     "definitions": [
       {
@@ -11161,6 +12050,7 @@
   },
   {
     "key": 889,
+    "group": 30,
     "word": "odious",
     "definitions": [
       {
@@ -11173,6 +12063,7 @@
   },
   {
     "key": 890,
+    "group": 30,
     "word": "plucky",
     "definitions": [
       {
@@ -11185,6 +12076,7 @@
   },
   {
     "key": 891,
+    "group": 30,
     "word": "precocious",
     "definitions": [
       {
@@ -11197,6 +12089,7 @@
   },
   {
     "key": 892,
+    "group": 30,
     "word": "remuneration",
     "definitions": [
       {
@@ -11209,6 +12102,7 @@
   },
   {
     "key": 893,
+    "group": 30,
     "word": "slovenly",
     "definitions": [
       {
@@ -11227,6 +12121,7 @@
   },
   {
     "key": 894,
+    "group": 30,
     "word": "soliloquy",
     "definitions": [
       {
@@ -11239,6 +12134,7 @@
   },
   {
     "key": 895,
+    "group": 30,
     "word": "spurn",
     "definitions": [
       {
@@ -11251,6 +12147,7 @@
   },
   {
     "key": 896,
+    "group": 30,
     "word": "stolid",
     "definitions": [
       {
@@ -11263,6 +12160,7 @@
   },
   {
     "key": 897,
+    "group": 30,
     "word": "temerity",
     "definitions": [
       {
@@ -11275,6 +12173,7 @@
   },
   {
     "key": 898,
+    "group": 30,
     "word": "tenuous",
     "definitions": [
       {
@@ -11287,6 +12186,7 @@
   },
   {
     "key": 899,
+    "group": 30,
     "word": "verve",
     "definitions": [
       {
@@ -11299,6 +12199,7 @@
   },
   {
     "key": 900,
+    "group": 31,
     "word": "abrogate",
     "definitions": [
       {
@@ -11311,6 +12212,7 @@
   },
   {
     "key": 901,
+    "group": 31,
     "word": "aghast",
     "definitions": [
       {
@@ -11323,6 +12225,7 @@
   },
   {
     "key": 902,
+    "group": 31,
     "word": "apprise",
     "definitions": [
       {
@@ -11335,6 +12238,7 @@
   },
   {
     "key": 903,
+    "group": 31,
     "word": "beguile",
     "definitions": [
       {
@@ -11347,6 +12251,7 @@
   },
   {
     "key": 904,
+    "group": 31,
     "word": "boon",
     "definitions": [
       {
@@ -11359,6 +12264,7 @@
   },
   {
     "key": 905,
+    "group": 31,
     "word": "callous",
     "definitions": [
       {
@@ -11371,6 +12277,7 @@
   },
   {
     "key": 906,
+    "group": 31,
     "word": "coddle",
     "definitions": [
       {
@@ -11383,6 +12290,7 @@
   },
   {
     "key": 907,
+    "group": 31,
     "word": "crescendo",
     "definitions": [
       {
@@ -11395,6 +12303,7 @@
   },
   {
     "key": 908,
+    "group": 31,
     "word": "extenuating",
     "definitions": [
       {
@@ -11407,6 +12316,7 @@
   },
   {
     "key": 909,
+    "group": 31,
     "word": "frenetic",
     "definitions": [
       {
@@ -11419,6 +12329,7 @@
   },
   {
     "key": 910,
+    "group": 31,
     "word": "fringe",
     "definitions": [
       {
@@ -11431,6 +12342,7 @@
   },
   {
     "key": 911,
+    "group": 31,
     "word": "hapless",
     "definitions": [
       {
@@ -11443,6 +12355,7 @@
   },
   {
     "key": 912,
+    "group": 31,
     "word": "immaculate",
     "definitions": [
       {
@@ -11455,6 +12368,7 @@
   },
   {
     "key": 913,
+    "group": 31,
     "word": "obfuscate",
     "definitions": [
       {
@@ -11467,6 +12381,7 @@
   },
   {
     "key": 914,
+    "group": 31,
     "word": "ossify",
     "definitions": [
       {
@@ -11479,6 +12394,7 @@
   },
   {
     "key": 915,
+    "group": 31,
     "word": "pastiche",
     "definitions": [
       {
@@ -11491,6 +12407,7 @@
   },
   {
     "key": 916,
+    "group": 31,
     "word": "perspicacious",
     "definitions": [
       {
@@ -11503,6 +12420,7 @@
   },
   {
     "key": 917,
+    "group": 31,
     "word": "ponderous",
     "definitions": [
       {
@@ -11515,6 +12433,7 @@
   },
   {
     "key": 918,
+    "group": 31,
     "word": "recluse",
     "definitions": [
       {
@@ -11527,6 +12446,7 @@
   },
   {
     "key": 919,
+    "group": 31,
     "word": "retaliate",
     "definitions": [
       {
@@ -11539,6 +12459,7 @@
   },
   {
     "key": 920,
+    "group": 31,
     "word": "rhapsody",
     "definitions": [
       {
@@ -11551,6 +12472,7 @@
   },
   {
     "key": 921,
+    "group": 31,
     "word": "serendipitous",
     "definitions": [
       {
@@ -11563,6 +12485,7 @@
   },
   {
     "key": 922,
+    "group": 31,
     "word": "shirk",
     "definitions": [
       {
@@ -11575,6 +12498,7 @@
   },
   {
     "key": 923,
+    "group": 31,
     "word": "sinecure",
     "definitions": [
       {
@@ -11587,6 +12511,7 @@
   },
   {
     "key": 924,
+    "group": 31,
     "word": "sinuous",
     "definitions": [
       {
@@ -11599,6 +12524,7 @@
   },
   {
     "key": 925,
+    "group": 31,
     "word": "sordid",
     "definitions": [
       {
@@ -11617,6 +12543,7 @@
   },
   {
     "key": 926,
+    "group": 31,
     "word": "stanch",
     "definitions": [
       {
@@ -11629,6 +12556,7 @@
   },
   {
     "key": 927,
+    "group": 31,
     "word": "surfeit",
     "definitions": [
       {
@@ -11641,6 +12569,7 @@
   },
   {
     "key": 928,
+    "group": 31,
     "word": "ulterior",
     "definitions": [
       {
@@ -11653,6 +12582,7 @@
   },
   {
     "key": 929,
+    "group": 31,
     "word": "voluble",
     "definitions": [
       {
@@ -11665,6 +12595,7 @@
   },
   {
     "key": 930,
+    "group": 32,
     "word": "abstruse",
     "definitions": [
       {
@@ -11677,6 +12608,7 @@
   },
   {
     "key": 931,
+    "group": 32,
     "word": "auxiliary",
     "definitions": [
       {
@@ -11689,6 +12621,7 @@
   },
   {
     "key": 932,
+    "group": 32,
     "word": "caricature",
     "definitions": [
       {
@@ -11701,6 +12634,7 @@
   },
   {
     "key": 933,
+    "group": 32,
     "word": "depravity",
     "definitions": [
       {
@@ -11713,6 +12647,7 @@
   },
   {
     "key": 934,
+    "group": 32,
     "word": "dilettante",
     "definitions": [
       {
@@ -11725,6 +12660,7 @@
   },
   {
     "key": 935,
+    "group": 32,
     "word": "effrontery",
     "definitions": [
       {
@@ -11737,6 +12673,7 @@
   },
   {
     "key": 936,
+    "group": 32,
     "word": "encroach",
     "definitions": [
       {
@@ -11749,6 +12686,7 @@
   },
   {
     "key": 937,
+    "group": 32,
     "word": "endow",
     "definitions": [
       {
@@ -11761,6 +12699,7 @@
   },
   {
     "key": 938,
+    "group": 32,
     "word": "entreat",
     "definitions": [
       {
@@ -11773,6 +12712,7 @@
   },
   {
     "key": 939,
+    "group": 32,
     "word": "gregarious",
     "definitions": [
       {
@@ -11785,6 +12725,7 @@
   },
   {
     "key": 940,
+    "group": 32,
     "word": "indictment",
     "definitions": [
       {
@@ -11797,6 +12738,7 @@
   },
   {
     "key": 941,
+    "group": 32,
     "word": "indignant",
     "definitions": [
       {
@@ -11809,6 +12751,7 @@
   },
   {
     "key": 942,
+    "group": 32,
     "word": "ineluctable",
     "definitions": [
       {
@@ -11821,6 +12764,7 @@
   },
   {
     "key": 943,
+    "group": 32,
     "word": "inquisitive",
     "definitions": [
       {
@@ -11833,6 +12777,7 @@
   },
   {
     "key": 944,
+    "group": 32,
     "word": "latitude",
     "definitions": [
       {
@@ -11845,6 +12790,7 @@
   },
   {
     "key": 945,
+    "group": 32,
     "word": "levity",
     "definitions": [
       {
@@ -11857,6 +12803,7 @@
   },
   {
     "key": 946,
+    "group": 32,
     "word": "malevolent",
     "definitions": [
       {
@@ -11869,6 +12816,7 @@
   },
   {
     "key": 947,
+    "group": 32,
     "word": "mediate",
     "definitions": [
       {
@@ -11881,6 +12829,7 @@
   },
   {
     "key": 948,
+    "group": 32,
     "word": "occlude",
     "definitions": [
       {
@@ -11893,6 +12842,7 @@
   },
   {
     "key": 949,
+    "group": 32,
     "word": "pacify",
     "definitions": [
       {
@@ -11905,6 +12855,7 @@
   },
   {
     "key": 950,
+    "group": 32,
     "word": "paragon",
     "definitions": [
       {
@@ -11917,6 +12868,7 @@
   },
   {
     "key": 951,
+    "group": 32,
     "word": "patronize",
     "definitions": [
       {
@@ -11935,6 +12887,7 @@
   },
   {
     "key": 952,
+    "group": 32,
     "word": "penurious",
     "definitions": [
       {
@@ -11947,6 +12900,7 @@
   },
   {
     "key": 953,
+    "group": 32,
     "word": "piquant",
     "definitions": [
       {
@@ -11959,6 +12913,7 @@
   },
   {
     "key": 954,
+    "group": 32,
     "word": "rampant",
     "definitions": [
       {
@@ -11971,6 +12926,7 @@
   },
   {
     "key": 955,
+    "group": 32,
     "word": "remote",
     "definitions": [
       {
@@ -11983,6 +12939,7 @@
   },
   {
     "key": 956,
+    "group": 32,
     "word": "reprobate",
     "definitions": [
       {
@@ -11995,6 +12952,7 @@
   },
   {
     "key": 957,
+    "group": 32,
     "word": "turbid",
     "definitions": [
       {
@@ -12013,6 +12971,7 @@
   },
   {
     "key": 958,
+    "group": 32,
     "word": "turgid",
     "definitions": [
       {
@@ -12031,6 +12990,7 @@
   },
   {
     "key": 959,
+    "group": 32,
     "word": "vacuous",
     "definitions": [
       {
@@ -12043,6 +13003,7 @@
   },
   {
     "key": 960,
+    "group": 33,
     "word": "affluent",
     "definitions": [
       {
@@ -12055,6 +13016,7 @@
   },
   {
     "key": 961,
+    "group": 33,
     "word": "allegorical",
     "definitions": [
       {
@@ -12067,6 +13029,7 @@
   },
   {
     "key": 962,
+    "group": 33,
     "word": "allude",
     "definitions": [
       {
@@ -12079,6 +13042,7 @@
   },
   {
     "key": 963,
+    "group": 33,
     "word": "amplify",
     "definitions": [
       {
@@ -12091,6 +13055,7 @@
   },
   {
     "key": 964,
+    "group": 33,
     "word": "catastrophic",
     "definitions": [
       {
@@ -12103,6 +13068,7 @@
   },
   {
     "key": 965,
+    "group": 33,
     "word": "contemporary",
     "definitions": [
       {
@@ -12121,6 +13087,7 @@
   },
   {
     "key": 966,
+    "group": 33,
     "word": "conundrum",
     "definitions": [
       {
@@ -12133,6 +13100,7 @@
   },
   {
     "key": 967,
+    "group": 33,
     "word": "defame",
     "definitions": [
       {
@@ -12145,6 +13113,7 @@
   },
   {
     "key": 968,
+    "group": 33,
     "word": "detract",
     "definitions": [
       {
@@ -12157,6 +13126,7 @@
   },
   {
     "key": 969,
+    "group": 33,
     "word": "detrimental",
     "definitions": [
       {
@@ -12169,6 +13139,7 @@
   },
   {
     "key": 970,
+    "group": 33,
     "word": "devious",
     "definitions": [
       {
@@ -12181,6 +13152,7 @@
   },
   {
     "key": 971,
+    "group": 33,
     "word": "dormant",
     "definitions": [
       {
@@ -12193,6 +13165,7 @@
   },
   {
     "key": 972,
+    "group": 33,
     "word": "draconian",
     "definitions": [
       {
@@ -12205,6 +13178,7 @@
   },
   {
     "key": 973,
+    "group": 33,
     "word": "egalitarian",
     "definitions": [
       {
@@ -12217,6 +13191,7 @@
   },
   {
     "key": 974,
+    "group": 33,
     "word": "elusive",
     "definitions": [
       {
@@ -12229,6 +13204,7 @@
   },
   {
     "key": 975,
+    "group": 33,
     "word": "erstwhile",
     "definitions": [
       {
@@ -12241,6 +13217,7 @@
   },
   {
     "key": 976,
+    "group": 33,
     "word": "gloat",
     "definitions": [
       {
@@ -12253,6 +13230,7 @@
   },
   {
     "key": 977,
+    "group": 33,
     "word": "harrowing",
     "definitions": [
       {
@@ -12265,6 +13243,7 @@
   },
   {
     "key": 978,
+    "group": 33,
     "word": "indefinite",
     "definitions": [
       {
@@ -12283,6 +13262,7 @@
   },
   {
     "key": 979,
+    "group": 33,
     "word": "ingenious",
     "definitions": [
       {
@@ -12295,6 +13275,7 @@
   },
   {
     "key": 980,
+    "group": 33,
     "word": "keen",
     "definitions": [
       {
@@ -12313,6 +13294,7 @@
   },
   {
     "key": 981,
+    "group": 33,
     "word": "multifaceted",
     "definitions": [
       {
@@ -12325,6 +13307,7 @@
   },
   {
     "key": 982,
+    "group": 33,
     "word": "omniscient",
     "definitions": [
       {
@@ -12337,6 +13320,7 @@
   },
   {
     "key": 983,
+    "group": 33,
     "word": "remarkable",
     "definitions": [
       {
@@ -12349,6 +13333,7 @@
   },
   {
     "key": 984,
+    "group": 33,
     "word": "sober",
     "definitions": [
       {
@@ -12367,6 +13352,7 @@
   },
   {
     "key": 985,
+    "group": 33,
     "word": "stem from",
     "definitions": [
       {
@@ -12379,6 +13365,7 @@
   },
   {
     "key": 986,
+    "group": 33,
     "word": "subdued",
     "definitions": [
       {
@@ -12397,6 +13384,7 @@
   },
   {
     "key": 987,
+    "group": 33,
     "word": "token",
     "definitions": [
       {
@@ -12409,6 +13397,7 @@
   },
   {
     "key": 988,
+    "group": 33,
     "word": "unravel",
     "definitions": [
       {
@@ -12421,6 +13410,7 @@
   },
   {
     "key": 989,
+    "group": 33,
     "word": "withstand",
     "definitions": [
       {
@@ -12433,6 +13423,7 @@
   },
   {
     "key": 990,
+    "group": 34,
     "word": "abrasive",
     "definitions": [
       {
@@ -12451,6 +13442,7 @@
   },
   {
     "key": 991,
+    "group": 34,
     "word": "artful",
     "definitions": [
       {
@@ -12469,6 +13461,7 @@
   },
   {
     "key": 992,
+    "group": 34,
     "word": "avert",
     "definitions": [
       {
@@ -12481,6 +13474,7 @@
   },
   {
     "key": 993,
+    "group": 34,
     "word": "avid",
     "definitions": [
       {
@@ -12493,6 +13487,7 @@
   },
   {
     "key": 994,
+    "group": 34,
     "word": "brevity",
     "definitions": [
       {
@@ -12511,6 +13506,7 @@
   },
   {
     "key": 995,
+    "group": 34,
     "word": "bromide",
     "definitions": [
       {
@@ -12523,6 +13519,7 @@
   },
   {
     "key": 996,
+    "group": 34,
     "word": "circumstantial",
     "definitions": [
       {
@@ -12541,6 +13538,7 @@
   },
   {
     "key": 997,
+    "group": 34,
     "word": "cloying",
     "definitions": [
       {
@@ -12553,6 +13551,7 @@
   },
   {
     "key": 998,
+    "group": 34,
     "word": "counterfeit",
     "definitions": [
       {
@@ -12565,6 +13564,7 @@
   },
   {
     "key": 999,
+    "group": 34,
     "word": "denigrate",
     "definitions": [
       {
@@ -12577,6 +13577,7 @@
   },
   {
     "key": 1000,
+    "group": 34,
     "word": "disciple",
     "definitions": [
       {
@@ -12595,6 +13596,7 @@
   },
   {
     "key": 1001,
+    "group": 34,
     "word": "extol",
     "definitions": [
       {
@@ -12607,6 +13609,7 @@
   },
   {
     "key": 1002,
+    "group": 34,
     "word": "forebode",
     "definitions": [
       {
@@ -12619,6 +13622,7 @@
   },
   {
     "key": 1003,
+    "group": 34,
     "word": "ideologue",
     "definitions": [
       {
@@ -12631,6 +13635,7 @@
   },
   {
     "key": 1004,
+    "group": 34,
     "word": "impediment",
     "definitions": [
       {
@@ -12643,6 +13648,7 @@
   },
   {
     "key": 1005,
+    "group": 34,
     "word": "imperative",
     "definitions": [
       {
@@ -12661,6 +13667,7 @@
   },
   {
     "key": 1006,
+    "group": 34,
     "word": "impulsive",
     "definitions": [
       {
@@ -12673,6 +13680,7 @@
   },
   {
     "key": 1007,
+    "group": 34,
     "word": "interminable",
     "definitions": [
       {
@@ -12685,6 +13693,7 @@
   },
   {
     "key": 1008,
+    "group": 34,
     "word": "intuitive",
     "definitions": [
       {
@@ -12703,6 +13712,7 @@
   },
   {
     "key": 1009,
+    "group": 34,
     "word": "lassitude",
     "definitions": [
       {
@@ -12715,6 +13725,7 @@
   },
   {
     "key": 1010,
+    "group": 34,
     "word": "omit",
     "definitions": [
       {
@@ -12727,6 +13738,7 @@
   },
   {
     "key": 1011,
+    "group": 34,
     "word": "ornate",
     "definitions": [
       {
@@ -12739,6 +13751,7 @@
   },
   {
     "key": 1012,
+    "group": 34,
     "word": "paltry",
     "definitions": [
       {
@@ -12751,6 +13764,7 @@
   },
   {
     "key": 1013,
+    "group": 34,
     "word": "pejorative",
     "definitions": [
       {
@@ -12763,6 +13777,7 @@
   },
   {
     "key": 1014,
+    "group": 34,
     "word": "prefigure",
     "definitions": [
       {
@@ -12775,6 +13790,7 @@
   },
   {
     "key": 1015,
+    "group": 34,
     "word": "presage",
     "definitions": [
       {
@@ -12793,6 +13809,7 @@
   },
   {
     "key": 1016,
+    "group": 34,
     "word": "prescribe",
     "definitions": [
       {
@@ -12811,6 +13828,7 @@
   },
   {
     "key": 1017,
+    "group": 34,
     "word": "prevail",
     "definitions": [
       {
@@ -12835,6 +13853,7 @@
   },
   {
     "key": 1018,
+    "group": 34,
     "word": "propitiate",
     "definitions": [
       {
@@ -12847,6 +13866,7 @@
   },
   {
     "key": 1019,
+    "group": 34,
     "word": "recapitulate",
     "definitions": [
       {

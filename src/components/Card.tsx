@@ -9,18 +9,28 @@ interface Definition {
 
 interface WordData {
   key: number;
+  group: number;
   word: string;
   definitions: Definition[];
 }
 
 interface Props {
   data: WordData;
+  showGroupNumbers: boolean;
 }
 
-const Card: FC<Props> = ({ data }) => {
+const Card: FC<Props> = ({ data, showGroupNumbers }) => {
   return (
-    <article className="w-full p-8 border-2 border-black rounded-md shadow-md">
+    <article className="relative w-full p-8 overflow-hidden border-2 border-black rounded-md shadow-md">
       <h3 className="text-xl font-semibold">{data.word}</h3>
+      <div
+        className={
+          'absolute top-0 right-0 px-3 py-1.5 bg-gray-300 rounded-bl-md' +
+          (showGroupNumbers ? '' : ' hidden')
+        }
+      >
+        Group {data.group}
+      </div>
       <div>
         {data.definitions.map((def, index) => (
           <>
