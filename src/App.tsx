@@ -73,15 +73,24 @@ function App() {
         Vocab Fuzzy Search
       </h1>
       <div className="w-[750px] max-w-full px-5">
-        <input
-          type="text"
-          placeholder="Search the vocab..."
-          autoFocus
-          value={search}
-          ref={searchInputRef}
-          onChange={e => setSearch(e.target.value)}
-          className="inline-block w-full px-4 py-2 mb-2 border border-gray-300 rounded-md"
-        />
+        <div className="relative w-full">
+          <input
+            type="text"
+            placeholder="Search the vocab..."
+            autoFocus
+            value={search}
+            ref={searchInputRef}
+            onChange={e => setSearch(e.target.value)}
+            className="inline-block w-full px-4 py-2 mb-2 border border-gray-300 rounded-md"
+          />
+          <span className="absolute hidden pointer-events-none top-2 right-4 text-slate-600 md:block">
+            Click{' '}
+            <kbd className="text-slate-900 bg-slate-300 px-1 py-0.5 rounded-sm">
+              /
+            </kbd>{' '}
+            to focus
+          </span>
+        </div>
 
         {/* controls */}
         <div className="flex flex-col items-start gap-5 mb-8 md:flex-row md:items-center">

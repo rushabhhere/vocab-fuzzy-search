@@ -1,4 +1,5 @@
 import type { FC } from 'react';
+import React from 'react';
 
 interface Definition {
   part_of_speech: string;
@@ -33,7 +34,7 @@ const Card: FC<Props> = ({ data, showGroupNumbers }) => {
       </div>
       <div>
         {data.definitions.map((def, index) => (
-          <>
+          <React.Fragment key={`${data.key}-${index}`}>
             <div key={index} className="mt-4">
               <p className="font-semibold">{def.part_of_speech}:</p>
               <p className="mt-2 text-lg">{def.definition}</p>
@@ -57,7 +58,7 @@ const Card: FC<Props> = ({ data, showGroupNumbers }) => {
             </div>
 
             {index !== data.definitions.length - 1 && <hr className="my-6" />}
-          </>
+          </React.Fragment>
         ))}
       </div>
     </article>
