@@ -58,6 +58,11 @@ function App() {
     });
   };
 
+  const clearSearch = () => {
+    setSearch('');
+    searchInputRef.current?.focus();
+  };
+
   return (
     <main className="flex flex-col items-center w-full mt-16 mb-10">
       <div className="absolute top-3 right-5">
@@ -90,6 +95,12 @@ function App() {
             </kbd>{' '}
             to focus
           </span>
+          <button
+            onClick={clearSearch}
+            className="absolute p-1 md:hidden top-2 right-3"
+          >
+            <img src="/icons/cross.svg" alt="Clear" className="w-4" />
+          </button>
         </div>
 
         {/* controls */}
