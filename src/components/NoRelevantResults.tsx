@@ -2,7 +2,7 @@ import type { FC } from 'react';
 
 const NoRelevantResults: FC = () => {
   return (
-    <div className="flex flex-col items-center gap-5 p-8 text-gray-600">
+    <div className="flex flex-col items-center gap-5 p-8 text-gray-600 dark:text-gray-300">
       <h4 className="text-2xl text-center">
         Your search <i>yielded</i> no <i>apropos</i> results
       </h4>

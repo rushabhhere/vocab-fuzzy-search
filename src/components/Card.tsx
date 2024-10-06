@@ -22,11 +22,11 @@ interface Props {
 
 const Card: FC<Props> = ({ data, showGroupNumbers }) => {
   return (
-    <article className="relative w-full p-8 overflow-hidden border-2 border-black rounded-md shadow-md">
+    <article className="relative w-full p-8 overflow-hidden border-2 border-black rounded-md shadow-md dark:shadow-gray-800 dark:border-white">
       <h3 className="text-xl font-semibold">{data.word}</h3>
       <div
         className={
-          'absolute top-0 right-0 px-3 py-1.5 bg-gray-300 rounded-bl-md' +
+          'absolute top-0 right-0 px-3 py-1.5 bg-gray-300 dark:bg-gray-500 rounded-bl-md' +
           (showGroupNumbers ? '' : ' hidden')
         }
       >
@@ -43,7 +43,9 @@ const Card: FC<Props> = ({ data, showGroupNumbers }) => {
                 dangerouslySetInnerHTML={{ __html: def.sentence }}
               ></p>
               <div className="mt-4">
-                <span className="font-semibold text-gray-600">Synonyms:</span>
+                <span className="font-semibold text-gray-600 dark:text-gray-300">
+                  Synonyms:
+                </span>
                 {def.synonyms.length === 0 && (
                   <p className="mt-2 text-lg">No good synonyms.</p>
                 )}
