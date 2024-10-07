@@ -12114,7 +12114,7 @@
       {
         "part_of_speech": "adjective",
         "definition": "without care; neglectful",
-        "sentence": "Alcohol consumption made his speech slovenly.",
+        "sentence": "Alcohol consumption made his speech <u>slovenly</u>.",
         "synonyms": ["slapdash", "slipshod", "haphazard"]
       }
     ]
